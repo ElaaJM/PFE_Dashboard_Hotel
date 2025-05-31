@@ -1,0 +1,92 @@
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.app {
+  min-height: 100vh;
+  width: 100%;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+
+.gold-star {
+  color: #D4AF37;
+  font-size: 1.2rem;
+}
+
+/* Bizerta theme specific styles */
+.bizerta-gold-text {
+  color: #D4AF37;
+}
+
+.bizerta-gradient {
+  background: linear-gradient(to right, #F5F3E7, #FFF9E9);
+}
+
+.bizerta-card-hover:hover {
+  border-color: #D4AF37;
+  box-shadow: 0 4px 20px rgba(212, 175, 55, 0.1);
+}
+
+/* Chart animations */
+.recharts-surface {
+  overflow: visible;
+}
+
+.metric-card {
+  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+.metric-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
+}
+
+/* CSV Importer styles */
+.csv-drop-area {
+  border: 2px dashed #D4AF37;
+  transition: all 0.3s ease;
+}
+
+.csv-drop-area:hover {
+  background-color: rgba(212, 175, 55, 0.05);
+}
+
+/* Profile page styles */
+.profile-menu-item {
+  display: flex;
+  align-items: center;
+  padding: 0.75rem 1rem;
+  border-radius: 0.375rem;
+  transition: background-color 0.2s ease;
+}
+
+.profile-menu-item:hover {
+  background-color: rgba(212, 175, 55, 0.1);
+}
+
+.profile-menu-item.active {
+  background-color: rgba(212, 175, 55, 0.15);
+  font-weight: 500;
+}
+
+/* Gold theme styling for various components */
+.gold-border {
+  border-color: rgba(212, 175, 55, 0.5);
+}
+
+.gold-bg {
+  background-color: rgba(212, 175, 55, 0.1);
+}
+
+.gold-hover:hover {
+  color: #D4AF37;
+}

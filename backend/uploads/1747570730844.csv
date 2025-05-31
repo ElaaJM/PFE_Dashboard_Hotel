@@ -1,0 +1,1228 @@
+date,value
+2025-01-01,2
+2025-01-02,5
+2025-01-03,0
+2025-01-04,2
+2025-01-05,1
+2025-01-06,2
+2025-01-07,2
+2025-01-08,2
+2025-01-09,1
+2025-01-10,2
+2025-01-11,0
+2025-01-12,3
+2025-01-13,2
+2025-01-14,1
+2025-01-15,2
+2025-01-16,1
+2025-01-17,4
+2025-01-18,0
+2025-01-19,0
+2025-01-20,1
+2025-01-21,0
+2025-01-22,1
+2025-01-23,2
+2025-01-24,1
+2025-01-25,1
+2025-01-26,1
+2025-01-27,1
+2025-01-28,1
+2025-01-29,1
+2025-01-30,0
+2025-01-31,1
+2025-02-01,3
+2025-02-02,3
+2025-02-03,0
+2025-02-04,2
+2025-02-05,0
+2025-02-06,3
+2025-02-07,1
+2025-02-08,2
+2025-02-09,0
+2025-02-10,2
+2025-02-11,4
+2025-02-12,5
+2025-02-13,10
+2025-02-14,0
+2025-02-15,3
+2025-02-16,1
+2025-02-17,2
+2025-02-18,1
+2025-02-19,1
+2025-02-20,3
+2025-02-21,3
+2025-02-22,2
+2025-02-23,3
+2025-02-24,1
+2025-02-25,0
+2025-02-26,0
+2025-02-27,0
+2025-02-28,1
+2025-03-01,1
+2025-03-02,1
+2025-03-03,2
+2025-03-04,0
+2025-03-05,1
+2025-03-06,0
+2025-03-07,2
+2025-03-08,2
+2025-03-09,1
+2025-03-10,2
+2025-03-11,0
+2025-03-12,2
+2025-03-13,0
+2025-03-14,3
+2025-03-15,2
+2025-03-16,1
+2025-03-17,4
+2025-03-18,8
+2025-03-19,7
+2025-03-20,2
+2025-03-21,2
+2025-03-22,1
+2025-03-23,0
+2025-03-24,2
+2025-03-25,3
+2025-03-26,4
+2025-03-27,2
+2025-03-28,2
+2025-03-29,3
+2025-03-30,1
+2025-03-31,1
+2025-04-01,0
+2025-04-02,0
+2025-04-03,1
+2025-04-04,1
+2025-04-05,3
+2025-04-06,5
+2025-04-07,1
+2025-04-08,4
+2025-04-09,2
+2025-04-10,15
+2025-04-11,6
+2025-04-12,4
+2025-04-13,3
+2025-04-14,5
+2025-04-15,10
+2025-04-16,3
+2025-04-17,4
+2025-04-18,6
+2025-04-19,3
+2025-04-20,1
+2025-04-21,2
+2025-04-22,2
+2025-04-23,0
+2025-04-24,1
+2025-04-25,1
+2025-04-26,4
+2025-04-27,0
+2025-04-28,4
+2025-04-29,5
+2025-04-30,4
+2025-05-01,2
+2025-05-02,8
+2025-05-03,4
+2025-05-04,2
+2025-05-05,3
+2025-05-06,1
+2025-05-07,1
+2025-05-08,1
+2025-05-09,1
+2025-05-10,1
+2025-05-11,1
+2025-05-12,2
+2025-05-13,2
+2025-01-01,11
+2025-01-02,26
+2025-01-03,13
+2025-01-06,18
+2025-01-07,41
+2025-01-08,37
+2025-01-09,11
+2025-01-10,46
+2025-01-11,3
+2025-01-12,0
+2025-01-13,17
+2025-01-14,77
+2025-01-15,64
+2025-01-16,15
+2025-01-17,6
+2025-01-19,4
+2025-01-20,23
+2025-01-21,17
+2025-01-22,16
+2025-01-23,28
+2025-01-24,34
+2025-01-25,28
+2025-01-27,11
+2025-01-28,17
+2025-01-29,21
+2025-01-30,27
+2025-01-31,11
+2025-02-01,0
+2025-02-02,0
+2025-02-03,21
+2025-02-04,63
+2025-02-05,36
+2025-02-06,17
+2025-02-07,56
+2025-02-08,5
+2025-02-09,1
+2025-02-10,29
+2025-02-11,32
+2025-02-12,43
+2025-02-13,41
+2025-02-14,49
+2025-02-16,0
+2025-02-17,57
+2025-02-18,39
+2025-02-19,20
+2025-02-20,32
+2025-02-21,26
+2025-02-22,4
+2025-02-23,0
+2025-02-24,53
+2025-02-25,14
+2025-02-26,31
+2025-02-27,19
+2025-02-28,41
+2025-03-01,5
+2025-03-02,2
+2025-03-03,8
+2025-03-04,19
+2025-03-05,24
+2025-03-06,44
+2025-03-07,24
+2025-03-08,1
+2025-03-09,0
+2025-03-10,41
+2025-03-11,20
+2025-03-12,62
+2025-03-13,32
+2025-03-14,42
+2025-03-15,4
+2025-03-16,3
+2025-03-17,64
+2025-03-18,33
+2025-03-19,18
+2025-03-20,24
+2025-03-21,33
+2025-03-22,3
+2025-03-23,1
+2025-03-24,13
+2025-03-25,16
+2025-03-26,33
+2025-03-27,298
+2025-03-28,55
+2025-03-29,14
+2025-03-30,27
+2025-03-31,3
+2025-04-01,1
+2025-04-02,3
+2025-04-03,47
+2025-04-04,15
+2025-04-05,0
+2025-04-06,1
+2025-04-07,51
+2025-04-08,35
+2025-04-09,11
+2025-04-10,5
+2025-04-11,0
+2025-04-12,0
+2025-04-13,0
+2025-04-14,19
+2025-04-15,43
+2025-04-16,22
+2025-04-17,52
+2025-04-18,17
+2025-04-19,0
+2025-04-20,0
+2025-04-21,46
+2025-04-22,19
+2025-04-23,11
+2025-04-25,0
+2025-04-26,0
+2025-04-27,2
+2025-04-28,2
+2025-04-29,44
+2025-04-30,11
+2025-05-01,9
+2025-05-02,309
+2025-05-03,43
+2025-05-04,40
+2025-05-05,13
+2025-05-06,7
+2025-05-07,70
+2025-05-08,13
+2025-05-11,4
+2025-05-12,17
+2025-05-13,8
+2025-01-01,0
+2025-01-02,0
+2025-01-04,0
+2025-01-05,0
+2025-01-06,0
+2025-01-07,0
+2025-01-08,1
+2025-01-09,0
+2025-01-10,0
+2025-01-13,0
+2025-01-14,0
+2025-01-15,0
+2025-01-17,0
+2025-01-20,0
+2025-01-22,0
+2025-01-23,0
+2025-01-24,0
+2025-01-25,0
+2025-01-26,0
+2025-01-27,0
+2025-01-28,0
+2025-01-29,0
+2025-01-31,0
+2025-02-04,0
+2025-02-05,1
+2025-02-06,0
+2025-02-07,0
+2025-02-08,0
+2025-02-10,66
+2025-02-11,91
+2025-02-12,94
+2025-02-13,95
+2025-02-14,24
+2025-02-15,0
+2025-02-17,0
+2025-02-18,0
+2025-02-19,0
+2025-02-20,0
+2025-02-21,0
+2025-02-22,0
+2025-02-24,0
+2025-02-28,0
+2025-03-01,0
+2025-03-02,0
+2025-03-03,0
+2025-03-05,0
+2025-03-07,0
+2025-03-08,0
+2025-03-10,0
+2025-03-12,0
+2025-03-14,0
+2025-03-15,0
+2025-03-16,0
+2025-03-17,63
+2025-03-18,60
+2025-03-19,63
+2025-03-20,100
+2025-03-21,135
+2025-03-22,7
+2025-03-24,0
+2025-03-25,0
+2025-03-26,0
+2025-03-27,0
+2025-03-28,0
+2025-03-29,0
+2025-03-30,0
+2025-03-31,0
+2025-04-01,2
+2025-04-03,0
+2025-04-06,0
+2025-04-07,0
+2025-04-08,0
+2025-04-09,0
+2025-04-10,0
+2025-04-14,0
+2025-04-15,74
+2025-04-16,54
+2025-04-17,39
+2025-04-18,56
+2025-04-21,0
+2025-04-22,0
+2025-04-24,0
+2025-04-28,0
+2025-04-29,0
+2025-04-30,0
+2025-05-01,0
+2025-05-02,0
+2025-05-03,0
+2025-05-04,1
+2025-05-05,0
+2025-05-06,0
+2025-05-07,0
+2025-05-08,0
+2025-05-09,0
+2025-05-10,0
+2025-05-11,0
+2025-05-12,0
+2025-01-01,565
+2025-01-02,857
+2025-01-03,575
+2025-01-04,337
+2025-01-05,272
+2025-01-06,2066
+2025-01-07,907
+2025-01-08,621
+2025-01-09,539
+2025-01-10,569
+2025-01-11,697
+2025-01-12,277
+2025-01-13,395
+2025-01-14,1305
+2025-01-15,1069
+2025-01-16,540
+2025-01-17,269
+2025-01-18,208
+2025-01-19,171
+2025-01-20,434
+2025-01-21,516
+2025-01-22,811
+2025-01-23,813
+2025-01-24,785
+2025-01-25,350
+2025-01-26,285
+2025-01-27,355
+2025-01-28,585
+2025-01-29,412
+2025-01-30,665
+2025-01-31,300
+2025-02-01,197
+2025-02-02,161
+2025-02-03,498
+2025-02-04,914
+2025-02-05,493
+2025-02-06,499
+2025-02-07,1024
+2025-02-08,444
+2025-02-09,1103
+2025-02-10,6609
+2025-02-11,10810
+2025-02-12,9539
+2025-02-13,9737
+2025-02-14,4399
+2025-02-15,348
+2025-02-16,133
+2025-02-17,714
+2025-02-18,613
+2025-02-19,429
+2025-02-20,481
+2025-02-21,736
+2025-02-22,190
+2025-02-23,249
+2025-02-24,1404
+2025-02-25,406
+2025-02-26,474
+2025-02-27,417
+2025-02-28,601
+2025-03-01,184
+2025-03-02,122
+2025-03-03,242
+2025-03-04,279
+2025-03-05,892
+2025-03-06,665
+2025-03-07,534
+2025-03-08,157
+2025-03-09,122
+2025-03-10,1150
+2025-03-11,418
+2025-03-12,1686
+2025-03-13,692
+2025-03-14,810
+2025-03-15,280
+2025-03-16,111
+2025-03-17,4469
+2025-03-18,3521
+2025-03-19,3045
+2025-03-20,3726
+2025-03-21,4251
+2025-03-22,592
+2025-03-23,116
+2025-03-24,326
+2025-03-25,250
+2025-03-26,263
+2025-03-27,3036
+2025-03-28,950
+2025-03-29,323
+2025-03-30,419
+2025-03-31,238
+2025-04-01,151
+2025-04-02,179
+2025-04-03,506
+2025-04-04,331
+2025-04-05,174
+2025-04-06,139
+2025-04-07,1011
+2025-04-08,631
+2025-04-09,249
+2025-04-10,14086
+2025-04-11,15196
+2025-04-12,6570
+2025-04-13,4451
+2025-04-14,4251
+2025-04-15,11377
+2025-04-16,7543
+2025-04-17,6463
+2025-04-18,4806
+2025-04-19,300
+2025-04-20,553
+2025-04-21,1061
+2025-04-22,338
+2025-04-23,321
+2025-04-24,182
+2025-04-25,152
+2025-04-26,217
+2025-04-27,534
+2025-04-28,481
+2025-04-29,1048
+2025-04-30,456
+2025-05-01,391
+2025-05-02,1507
+2025-05-03,849
+2025-05-04,838
+2025-05-05,457
+2025-05-06,550
+2025-05-07,1520
+2025-05-08,1066
+2025-05-09,2101
+2025-05-10,3726
+2025-05-11,8317
+2025-05-12,9535
+2025-05-13,7643
+2025-01-01,978
+2025-01-02,1137
+2025-01-03,1042
+2025-01-04,308
+2025-01-05,144
+2025-01-06,1540
+2025-01-07,1589
+2025-01-08,1602
+2025-01-09,1002
+2025-01-10,1891
+2025-01-11,492
+2025-01-12,377
+2025-01-13,699
+2025-01-14,3216
+2025-01-15,2280
+2025-01-16,948
+2025-01-17,299
+2025-01-18,144
+2025-01-19,291
+2025-01-20,715
+2025-01-21,831
+2025-01-22,1335
+2025-01-23,1763
+2025-01-24,1600
+2025-01-25,462
+2025-01-26,367
+2025-01-27,637
+2025-01-28,1478
+2025-01-29,929
+2025-01-30,1818
+2025-01-31,691
+2025-02-01,304
+2025-02-02,228
+2025-02-03,1076
+2025-02-04,3094
+2025-02-05,1088
+2025-02-06,1107
+2025-02-07,2699
+2025-02-08,731
+2025-02-09,609
+2025-02-10,172997
+2025-02-11,205985
+2025-02-12,141997
+2025-02-13,277962
+2025-02-14,21899
+2025-02-15,953
+2025-02-16,179
+2025-02-17,2412
+2025-02-18,1154
+2025-02-19,1010
+2025-02-20,1159
+2025-02-21,2212
+2025-02-22,275
+2025-02-23,277
+2025-02-24,3453
+2025-02-25,4983
+2025-02-26,7158
+2025-02-27,7208
+2025-02-28,7461
+2025-03-01,1491
+2025-03-02,486
+2025-03-03,485
+2025-03-04,531
+2025-03-05,2499
+2025-03-06,2840
+2025-03-07,1602
+2025-03-08,9433
+2025-03-09,7453
+2025-03-10,12807
+2025-03-11,11735
+2025-03-12,15074
+2025-03-13,14685
+2025-03-14,9337
+2025-03-15,975
+2025-03-16,276
+2025-03-17,7970
+2025-03-18,5133
+2025-03-19,3754
+2025-03-20,4233
+2025-03-21,6091
+2025-03-22,957
+2025-03-23,241
+2025-03-24,955
+2025-03-25,596
+2025-03-26,749
+2025-03-27,5961
+2025-03-28,2022
+2025-03-29,597
+2025-03-30,942
+2025-03-31,457
+2025-04-01,603
+2025-04-02,461
+2025-04-03,1030
+2025-04-04,828
+2025-04-05,603
+2025-04-06,366
+2025-04-07,2067
+2025-04-08,1433
+2025-04-09,570
+2025-04-10,859
+2025-04-11,637
+2025-04-12,378
+2025-04-13,320
+2025-04-14,1222
+2025-04-15,9842
+2025-04-16,5729
+2025-04-17,6061
+2025-04-18,6510
+2025-04-19,376
+2025-04-20,265
+2025-04-21,2740
+2025-04-22,926
+2025-04-23,431
+2025-04-24,355
+2025-04-25,282
+2025-04-26,193
+2025-04-27,447
+2025-04-28,693
+2025-04-29,1584
+2025-04-30,555
+2025-05-01,778
+2025-05-02,3851
+2025-05-03,944
+2025-05-04,834
+2025-05-05,492
+2025-05-06,649
+2025-05-07,3284
+2025-05-08,1101
+2025-05-09,361
+2025-05-10,274
+2025-05-11,373
+2025-05-12,701
+2025-05-13,595
+2025-01-01,106
+2025-01-02,176
+2025-01-03,161
+2025-01-04,74
+2025-01-05,34
+2025-01-06,114
+2025-01-07,76
+2025-01-08,146
+2025-01-09,91
+2025-01-10,124
+2025-01-11,70
+2025-01-12,62
+2025-01-13,82
+2025-01-14,119
+2025-01-15,87
+2025-01-16,100
+2025-01-17,93
+2025-01-18,28
+2025-01-19,51
+2025-01-20,75
+2025-01-21,82
+2025-01-22,130
+2025-01-23,129
+2025-01-24,92
+2025-01-25,27
+2025-01-26,42
+2025-01-27,56
+2025-01-28,113
+2025-01-29,80
+2025-01-30,112
+2025-01-31,97
+2025-02-01,95
+2025-02-02,77
+2025-02-03,64
+2025-02-04,149
+2025-02-05,59
+2025-02-06,72
+2025-02-07,97
+2025-02-08,50
+2025-02-09,148
+2025-02-10,146
+2025-02-11,216
+2025-02-12,209
+2025-02-13,240
+2025-02-14,183
+2025-02-15,125
+2025-02-16,62
+2025-02-17,135
+2025-02-18,38
+2025-02-19,55
+2025-02-20,86
+2025-02-21,109
+2025-02-22,91
+2025-02-23,55
+2025-02-24,73
+2025-02-25,58
+2025-02-26,98
+2025-02-27,98
+2025-02-28,81
+2025-03-01,51
+2025-03-02,63
+2025-03-03,46
+2025-03-04,56
+2025-03-05,91
+2025-03-06,73
+2025-03-07,87
+2025-03-08,67
+2025-03-09,55
+2025-03-10,77
+2025-03-11,76
+2025-03-12,96
+2025-03-13,127
+2025-03-14,96
+2025-03-15,145
+2025-03-16,68
+2025-03-17,175
+2025-03-18,237
+2025-03-19,213
+2025-03-20,131
+2025-03-21,305
+2025-03-22,102
+2025-03-23,48
+2025-03-24,123
+2025-03-25,96
+2025-03-26,101
+2025-03-27,173
+2025-03-28,106
+2025-03-29,67
+2025-03-30,113
+2025-03-31,36
+2025-04-01,63
+2025-04-02,84
+2025-04-03,77
+2025-04-04,116
+2025-04-05,90
+2025-04-06,71
+2025-04-07,125
+2025-04-08,124
+2025-04-09,69
+2025-04-10,285
+2025-04-11,208
+2025-04-12,163
+2025-04-13,95
+2025-04-14,151
+2025-04-15,214
+2025-04-16,225
+2025-04-17,228
+2025-04-18,145
+2025-04-19,119
+2025-04-20,73
+2025-04-21,125
+2025-04-22,104
+2025-04-23,72
+2025-04-24,72
+2025-04-25,76
+2025-04-26,81
+2025-04-27,84
+2025-04-28,118
+2025-04-29,274
+2025-04-30,138
+2025-05-01,83
+2025-05-02,218
+2025-05-03,171
+2025-05-04,107
+2025-05-05,68
+2025-05-06,117
+2025-05-07,160
+2025-05-08,73
+2025-05-09,52
+2025-05-10,68
+2025-05-11,56
+2025-05-12,52
+2025-05-13,66
+en bord de plage, belle piscine.
+Petit déjeuner basique, manque d’équipements.",unknown,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,Roberto (Italie,10.0,Couple,Chambre Double vue sur Ville,2 nuits,29 juin 2024,"Personnel très courtois, structure propre et très bien située.
+Aucun point négatif à signaler.",unknown,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,Sihem (France,1.0,Couple,Chambre Double vue sur Ville,2 nuits,4 juillet 2024,"Rien.
+Séjour très décevant, je ne reviendrai pas.",unknown,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,Elyes (France,1.0,Couple,Chambre Double Supérieure - Vue sur Mer,1 nuit,6 juillet 2024,"Présence de cafards dans la salle de bain (10 tués).
+Expérience choquante, hygiène inadmissible.",unknown,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,Ryad (Libye,5.0,Couple,Chambre Double Supérieure - Vue sur Mer,3 nuits,9 juillet 2024,Pas de commentaire laissé.,unknown,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,Rismawati (Indonésie,2.0,Couple,Chambre Double vue sur Ville,1 nuit,10 juillet 2024,"Emplacement pratique, mais chambre sale, pas d’équipements (eau, café).
+Mauvais service, accueil froid, discrimination perçue.",unknown,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+Imed,France,9.0,Couple,Chambre Double Supérieure - Vue sur Mer,2 nuits,18 juillet 2024,"Séjour très agréable
+Le personnel sympathique, parking en face de l’entrée, belle vue et piscine agréable. Petit déjeuner très correct.
+Rien",unknown,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+Abdesselem,France,7.0,Couple,Chambre Double vue sur Ville,3 nuits,22 juillet 2024,"Bien
+Ce client n'a pas laissé de commentaire.",unknown,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+Khalil,Canada,3.0,Couple,Chambre Double Supérieure - Vue sur Mer,2 nuits,23 juillet 2024,"Assez médiocre
+Ce client n'a pas laissé de commentaire.",unknown,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+Pascale,France,6.0,Couple,Chambre Double vue sur Ville,5 nuits,30 juillet 2024,"Assez bien
+La piscine est bien, le restaurant aussi, mais les chambres ne sont pas top.
+2 personnes ont trouvé ce commentaire utile.",unknown,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+Ayadi,Tunisie,8.0,Couple,Suite 1 Chambre,3 nuits,31 juillet 2024,"Très bien
+Ce client n'a pas laissé de commentaire.",unknown,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,,,Couple,Suite 1 Chambre,2 nuits,5 août 2024,"Exceptionnel
+Nous avons passé un très bon moment. Endroit très paisible, propre et élégant. Le personnel est discret et à l'écoute de nos désirs. Le restaurant est très propre, avec un buffet à volonté de bonne qualité et frais. Grand merci au chef et à la femme de ménage d'une gentillesse inégalée ailleurs. Hôtel digne de ses 4 étoiles, à recommander pour un séjour de noces.",unknown,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,,,Couple,Chambre Double vue sur Ville,7 nuits,11 août 2024,"Exceptionnel
+Ce client n'a pas laissé de commentaire.",unknown,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+Yasmine,France,5.0,Couple,Chambre Double vue sur Ville,3 nuits,15 août 2024,"Passable
+Ce client n'a pas laissé de commentaire.",unknown,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+Lisa,Allemagne,5.0,Voyageur individuel,Chambre Double Supérieure - Vue sur Mer,2 nuits,30 juillet 2024,"Gut aber das gerauche und die Renovierungsbedürftigkeit überschatten alles
+Traduction :
+Bien, mais la fumée et la nécessité de rénovation gâchent tout.
+La localisation et la proximité de la plage étaient bonnes. Le buffet du petit déjeuner était gigantesque, avec une grande variété. Le personnel était très sympathique.
+Cependant, partout où l'on allait, il y avait de la fumée. On peut même fumer dans les chambres. Tout était très vieux et aurait besoin de rénovations. La lumière dans ma chambre ne fonctionnait pas, seul un petit veilleuse était allumée. Il y avait un petit réfrigérateur dans la chambre qui ne se fermait pas correctement et brillait toute la nuit.",unknown,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+Essam,Égypte,1.0,Voyageur individuel,Chambre Double vue sur Ville,2 nuits,10 octobre 2022,"Mauvais
+Ce client n'a pas laissé de commentaire.",unknown,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+Mohamed,Tunisie,5.0,Voyageur individuel,Chambre Double vue sur Ville,1 nuit,14 février 2024,"Passable
+Ce client n'a pas laissé de commentaire.",unknown,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+Apostolos,Grèce,6.0,Voyageur individuel,Chambre Double vue sur Ville,3 nuits,21 mars 2024,"Agréable
+Le personnel était très sympathique. Pendant l'hiver, l'hôtel fonctionnait à moitié. La chambre était assez sale, tout comme la salle de bain, avec des déchets partout. Le premier jour, alors que j'étais allongé, les employés ont ouvert la porte sans frapper pour récupérer un fauteuil. Tout était très négligé.
+Traduction :
+The staff was very polite, but during the winter when I visited, the hotel was only partially operational. The room was quite dirty, as well as the bathroom. There were garbage everywhere. On the first day, while I was lying down, the staff opened the door without knocking to take a chair. Everything seemed very improvised.",unknown,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+Jonathan,Royaume-Uni,1.0,Voyageur individuel,Chambre Double Supérieure - Vue sur Mer,1 nuit,9 avril 2024,"Avoid!!!
+Traduction :
+À éviter!!!
+Rien.
+Le personnel était très impoli. Ils ont essayé de me facturer deux fois ma chambre. Nourriture de mauvaise qualité.
+1 personne a trouvé ce commentaire utile.",unknown,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+Joe,Royaume-Uni,7.0,Voyageur individuel,Chambre Double Supérieure - Vue sur Mer,6 nuits,10 avril 2024,"Lovely staff, great location, comfortable stay
+Bon séjour, personnel agréable, situation excellente, chambre confortable. La nourriture était bonne, le personnel très sympathique, et l'aire de la piscine était excellente.
+La connexion Wi-Fi était assez faible, sauf dans le hall de l'hôtel.
+L'hôtel était annoncé avec un sauna, mais je n'ai pas vu ou entendu parler de son utilisation. Les installations de gym étaient très pauvres.
+Paysage naturel près de l'hôtel.",unknown,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+Kevin,Royaume-Uni,8.0,Voyageur individuel,Chambre Triple - Vue sur Mer,3 nuits,16 avril 2024,"Good stay if slightly expensive
+Bon séjour, mais un peu cher.
+Excellente situation, piscine géniale, chambres sympas. Cependant, la nourriture était chère et moyenne.",unknown,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+Ilaria,Italie,4.0,Voyageur individuel,Chambre Double vue sur Ville,1 nuit,28 avril 2024,"Décevant
+Lenzuola sporche, tovaglie al tavolo sporche, bagno sporco.
+Traduction :
+Draps sales, nappes sales à la table, salle de bain sale.",unknown,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+Didier,France,9.0,Voyageur individuel,Chambre Double vue sur Ville,2 nuits,5 mai 2024,"Top je reviendrai en septembre...
+L'accueil était parfait, comme toujours en Tunisie. Seuls les fumeurs dans le bar m'ont dérangé, car en France, nous avons perdu l'habitude de la fumée dans les lieux publics. J'avais oublié à quel point cela peut être gênant quand on n'est pas fumeur.",unknown,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,Zakaria (Maroc,8.0,Voyageur solo,Chambre Double vue sur Ville,,14 avril 2025,Aucun commentaire laissé.,unknown,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,Jamel (France,7.0,Voyageur solo,Chambre Double Supérieure - Vue sur Mer,,15 avril 2025,Aucun commentaire laissé.,unknown,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,Farid (France,8.0,Voyageur solo,Chambre Double Supérieure - Vue sur Mer,,17 avril 2025,Aucun commentaire laissé.,unknown,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,Alice (France,9.0,En couple,Chambre Double vue sur Ville,,19 avril 2025,"Très bon rapport qualité-prix, personnel agréable, chambre propre.
+Le petit déjeuner pourrait être un peu plus varié.",unknown,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,Nicolas (France,6.0,En couple,Chambre Double vue sur Ville,,21 avril 2025,"Bien situé mais trop de bruit la nuit, mauvaise insonorisation.
+Literie confortable, mais salle de bain ancienne.",unknown,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,Nesrine (France,6.0,Famille,Double vue sur Ville,2 nuits,19 septembre 2022,Le ménage laisse à désirer.,unknown,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,Moutia,6.0,Famille,Double Supérieure - Vue sur Mer,4 nuits,12 octobre 2022,Aucun commentaire laissé.,unknown,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,Christophe (France,7.0,Famille,Double vue sur Ville,1 nuit,30 novembre 2022,Aucun commentaire laissé.,unknown,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,,7.0,Famille,Double vue sur Ville,5 nuits,20 février 2024,"Excellent, hôtel très bien situé, personnels très agréables et professionnels. Merci pour ce séjour. Je recommande vivement cet hôtel.",unknown,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,Rekaya (Allemagne,9.0,Famille,Double Supérieure - Vue sur Mer,3 nuits,20 avril 2024,"L’équipement est un peu ancien, mais très propre. Le service était excellent, personnel toujours aimable et très attentif. Emplacement central avec parkings disponibles.",unknown,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,Martine (France,8.0,Famille,Triple - Vue sur Mer,2 nuits,4 juillet 2024,Aucun commentaire laissé.,unknown,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,Thierry (France,8.0,Famille,Double Supérieure - Vue sur Mer,5 nuits,12 juillet 2024,L’amabilité du personnel.,unknown,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,Valeria (Italie,8.0,Famille,Double Supérieure - Vue sur Mer,2 nuits,12 juillet 2024,"Très accueillant et élégant, staff professionnel et efficace. La structure est ancienne, non rénovée. La baignoire n’est pas accessible aux personnes à mobilité réduite. L’établissement devrait être plus inclusif. Le Wi-Fi ne fonctionnait pas bien.",unknown,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,,7.0,Famille,Double Supérieure - Vue sur Mer,2 nuits,16 juillet 2024,Ce client n'a pas laissé de commentaire.,unknown,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,Ophélie (France,4.0,Famille,Triple - Vue sur Mer,2 nuits,20 juillet 2024,"La localisation. La propreté, les équipements bas de gamme et le petit déjeuné très moyen.",unknown,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,,7.0,Famille,Double Supérieure - Vue sur Mer,12 nuits,22 juillet 2024,"Top top, personnel accueillant, propreté irréprochable, infrastructures nickel, buffet à volonté très varié, aliments frais. Vraiment rien à redire, je recommande vivement l’hôtel. Bizerte est l'endroit idéal pour vos vacances !",unknown,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,,7.0,Famille,Double vue sur Ville,2 nuits,27 juillet 2024,Ce client n'a pas laissé de commentaire.,unknown,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,Mourad (France,5.0,Famille,Triple - Vue sur Ville,1 nuit,29 juillet 2024,Rien. Tout limite insalubre.,unknown,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,Mihaela (Roumanie,7.0,Famille,Triple - Vue sur Ville,1 nuit,31 juillet 2024,Ce client n'a pas laissé de commentaire.,unknown,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,,7.0,Famille,Double vue sur Ville,6 nuits,3 août 2024,L’accueil. RAS.,unknown,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,Nabil (Tunisie,7.0,Famille,Triple - Vue sur Ville,2 nuits,7 août 2024,Jätt bra men strand smutsigt. Strand lång borta. (Très bien mais plage sale et éloignée.),unknown,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,Benabdallah (France,6.0,Famille,Double vue sur Ville,2 nuits,9 août 2024,"La piscine intérieure. Je n’ai pas aimé la moquette dans la chambre et le petit déjeuner était ""pote"".",unknown,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,Bochra (France,7.0,Famille,Double vue sur Ville,1 nuit,16 août 2024,L’emplacement. Petit déjeuner très modeste.,unknown,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,,8.0,Famille,Suite 1 Chambre,12 nuits,18 août 2024,"A RECOMMANDER SUPER HOTEL PROPRE ET PERSONNEL AU TOP
+Excellent, personnel agréable et très professionnel.
+Réponse de l'hôtel :
+Merci beaucoup pour votre excellent retour! Nous sommes...",unknown,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,Kouais (Tunisie,7.0,Famille,Chambre Triple - Vue sur Ville,4 nuits,9 septembre 2024,"C'était correct
+Le petit déjeuner n'était pas varié. Les sanitaires (flexible, baignoire, fuite d'eau...) étaient problématiques.
+Réponse de l'hôtel :
+Merci d'avoir pris le temps de partager votre avis....",unknown,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,Mohamad (Liban,2.0,Famille,Chambre Double vue sur Ville,5 nuits,17 septembre 2024,Ce client n'a pas laissé de commentaire.,unknown,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,Gertrud (Allemagne,7.0,Famille,Chambre Double Supérieure - Vue sur Mer,6 nuits,23 septembre 2024,"Freundliches Personal
+Frühstück Pappbecher für O-Saft und Plastiklöffel für Kaffee bzw. Joghurt
+Tischdecken waren zum Teil schmutzig
+Réponse de l'hôtel :
+Hello, Thank you for your kind words about our friendly...",unknown,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,Mélina (France,8.0,Famille,Chambre Double vue sur Ville,5 nuits,3 novembre 2024,Ce client n'a pas laissé de commentaire.,unknown,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,Husam (France,5.0,Famille,Chambre Double vue sur Ville,3 nuits,24 février 2025,Ce client n'a pas laissé de commentaire.,unknown,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,Salem (Ukraine,9.0,Couple,Chambre Double Supérieure - Vue sur Mer,2 nuits,5 septembre 2022,Ce client n'a pas laissé de commentaire.,unknown,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,Saifeddine (France,8.0,Couple,Chambre Double Supérieure - Vue sur Mer,1 nuit,6 septembre 2022,Ce client n'a pas laissé de commentaire.,unknown,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,,5.0,Couple,Chambre Double Supérieure - Vue sur Mer,1 nuit,13 septembre 2022,Ce client n'a pas laissé de commentaire.,unknown,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,Oussama (Tunisie,3.0,Couple,Chambre Double vue sur Ville,1 nuit (séjour incomplet),13 septembre 2022,"L'enfer
+Rien
+Rien",unknown,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,,5.0,Couple,Chambre Double Supérieure - Vue sur Mer,2 nuits,26 septembre 2022,"Un bel soggiorno
+L'accoglienza eccellente
+Traduction : Excellent séjour, accueil formidable.",unknown,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,Léna (France,8.0,Couple,Chambre Double vue sur Ville,2 nuits,26 novembre 2022,Ce client n'a pas laissé de commentaire.,unknown,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,,5.0,Couple,Chambre Double vue sur Ville,2 nuits,7 décembre 2022,Ce client n'a pas laissé de commentaire.,unknown,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,,6.0,Couple,Chambre Double Supérieure - Vue sur Mer,8 nuits,8 janvier 2024,Ce client n'a pas laissé de commentaire.,unknown,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,Mohamed (Italie,4.0,Couple,Chambre Double Supérieure - Vue sur Mer,3 nuits,31 janvier 2024,"Bello
+La struttura è bella ma la gestione zero. Posizione.
+Traduction : L’établissement est beau mais la gestion est nulle. Bon emplacement.",unknown,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,Bastien (Espagne,7.0,Couple,Chambre Double Supérieure - Vue sur Mer,4 nuits,22 mars 2024,"Suffisant pour un séjour à Bizerte
+Le personnel très aimable et aidant. Chambre grande et confortable. Piscine intérieure super.
+Le wifi ne fonctionne pas dans les chambres. Salle de sport payante et pas entretenue.",unknown,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,Jack (Royaume-Uni,2.0,Couple,Chambre Double vue sur Ville,2 nuits,9 avril 2024,"Seemed ok till we didn’t want a taxi anymore and the staff become a nightmare
+Close to the beach
+Staff, booked a taxi through the hotel and paid in advance. Wanted to cancel it and was told we couldn’t, and they didn’t know where our money was as their colleague had booked it.
+Traduction : Proche de la plage. Le personnel a mal réagi quand on a voulu annuler un taxi réservé et payé d’avance. Ils ne savaient pas où était notre argent.",unknown,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,Elizabeth (Royaume-Uni,8.0,Couple,Chambre Double vue sur Ville,2 nuits,12 avril 2024,"Bon buffet, chambre confortable, personnel aimable.
+Ensemble un peu fatigué, mériterait une rénovation.",unknown,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,Mohamed (Arabie Saoudite,7.0,Couple,Chambre Double Supérieure - Vue sur Mer,3 nuits,16 avril 2024,"Bonne localisation, belle vue, iftar satisfaisant.
+Salle de sport et petit-déjeuner décevants.",unknown,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,Johanna (Allemagne,9.0,Couple,Chambre Double Supérieure - Vue sur Mer,4 nuits,25 avril 2024,"Chambre spacieuse avec balcon, vue mer magnifique, très calme.
+Chasse d’eau difficile à utiliser.",unknown,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,Elyes (France,1.0,Couple,Chambre Double Supérieure - Vue sur Mer,1 nuit,6 juillet 2024,"Présence de cafards dans la salle de bain (10 tués).
+Expérience choquante, hygiène inadmissible.",unknown,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,Ryad (Libye,5.0,Couple,Chambre Double Supérieure - Vue sur Mer,3 nuits,9 juillet 2024,Pas de commentaire laissé.,unknown,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+Imed,France,9.0,Couple,Chambre Double Supérieure - Vue sur Mer,2 nuits,18 juillet 2024,"Séjour très agréable
+Le personnel sympathique, parking en face de l’entrée, belle vue et piscine agréable. Petit déjeuner très correct.
+Rien",unknown,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+Abdesselem,France,7.0,Couple,Chambre Double vue sur Ville,3 nuits,22 juillet 2024,"Bien
+Ce client n'a pas laissé de commentaire.",unknown,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+Khalil,Canada,3.0,Couple,Chambre Double Supérieure - Vue sur Mer,2 nuits,23 juillet 2024,"Assez médiocre
+Ce client n'a pas laissé de commentaire.",unknown,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+Pascale,France,6.0,Couple,Chambre Double vue sur Ville,5 nuits,30 juillet 2024,"Assez bien
+La piscine est bien, le restaurant aussi, mais les chambres ne sont pas top.
+2 personnes ont trouvé ce commentaire utile.",unknown,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+Ayadi,Tunisie,8.0,Couple,Suite 1 Chambre,3 nuits,31 juillet 2024,"Très bien
+Ce client n'a pas laissé de commentaire.",unknown,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,,8.0,Couple,Suite 1 Chambre,2 nuits,5 août 2024,"Exceptionnel
+Nous avons passé un très bon moment. Endroit très paisible, propre et élégant. Le personnel est discret et à l'écoute de nos désirs. Le restaurant est très propre, avec un buffet à volonté de bonne qualité et frais. Grand merci au chef et à la femme de ménage d'une gentillesse inégalée ailleurs. Hôtel digne de ses 4 étoiles, à recommander pour un séjour de noces.",unknown,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,,4.0,Couple,Chambre Double vue sur Ville,7 nuits,11 août 2024,"Exceptionnel
+Ce client n'a pas laissé de commentaire.",unknown,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+Yasmine,France,5.0,Couple,Chambre Double vue sur Ville,3 nuits,15 août 2024,"Passable
+Ce client n'a pas laissé de commentaire.",unknown,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+Lisa,Allemagne,5.0,Voyageur individuel,Chambre Double Supérieure - Vue sur Mer,2 nuits,30 juillet 2024,"Bien, mais la fumée et la nécessité de rénovation gâchent tout.
+La localisation et la proximité de la plage étaient bonnes. Le buffet du petit déjeuner était gigantesque, avec une grande variété. Le personnel était très sympathique.
+Cependant, partout où l'on allait, il y avait de la fumée. On peut même fumer dans les chambres. Tout était très vieux et aurait besoin de rénovations. La lumière dans ma chambre ne fonctionnait pas, seul un petit veilleuse était allumée. Il y avait un petit réfrigérateur dans la chambre qui ne se fermait pas correctement et brillait toute la nuit.",unknown,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+Mohamed,Tunisie,5.0,Voyageur individuel,Chambre Double vue sur Ville,1 nuit,14 février 2024,"Passable
+Ce client n'a pas laissé de commentaire.",unknown,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+Apostolos,Grèce,6.0,Voyageur individuel,Chambre Double vue sur Ville,3 nuits,21 mars 2024,"Agréable
+The staff was very polite, but during the winter when I visited, the hotel was only partially operational. The room was quite dirty, as well as the bathroom. There were garbage everywhere. On the first day, while I was lying down, the staff opened the door without knocking to take a chair. Everything seemed very improvised.",unknown,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+Kevin,Royaume-Uni,8.0,Voyageur individuel,Chambre Triple - Vue sur Mer,3 nuits,16 avril 2024,"Good stay if slightly expensive
+Bon séjour, mais un peu cher.
+Excellente situation, piscine géniale, chambres sympas. Cependant, la nourriture était chère et moyenne.",unknown,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+Ilaria,Italie,4.0,Voyageur individuel,Chambre Double vue sur Ville,1 nuit,28 avril 2024,"Draps sales, nappes sales à la table, salle de bain sale.",unknown,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,Jamel (France,7.0,Voyageur solo,Chambre Double Supérieure - Vue sur Mer,,15 avril 2025,Aucun commentaire laissé.,unknown,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,Farid (France,8.0,Voyageur solo,Chambre Double Supérieure - Vue sur Mer,,17 avril 2025,Aucun commentaire laissé.,unknown,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Tripadvisor,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,ben abda o,5-May,a month ago,"Great Resort where we keep coming back due to the high service Quality: ||Food is great and the kitchen and service team are highly freindly, fast answering our requests and always provide our needs.|Wifi is covering most of the building â?¦",,,,,,,,,,,,,,,
+,,,,,,,,Tripadvisor,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Hassen S,5-Apr,a month ago,"Amazing accommodation, great reception, a high quality rooms, a good level food. The accommodated all our needs for the full duration. |The reception team always was at our highest expectations and they made checking in and out seamless and fun. I recommend",,,,,,,,,,,,,,,
+,,,,,,,,Tripadvisor,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,metahri y,5-May,a month ago,ÙÙ?Ø¯Ù? Ø¬Ù?Ù?Ù? Ù?Ø§Ø¯Ø¦ Ù?Ù?Ø§Ø³Ø¨ Ù?Ù?Ø¹Ø§Ø¦Ù?Ø§Øª |Ø·Ø§Ù?Ù? Ø§Ù?ÙÙ?Ø¯Ù? Ù?Ø§ Ø´Ø§Ø¡ Ø§Ù?Ù?Ù? Ø¹Ù?Ù?Ù?Ù? |Ø§Ù?Ø£Ù?Ù? Ù?Ù?Ø§Ø³Ø¨ Ù? Ù?Ø°Ø§Ù? Ø¬Ù?Ù?Ù? |Ø§Ù?ØºØ±Ù Ù?Ø¸Ù?ÙØ© Ù? Ù?Ø§Ø³Ø¹Ø© |Ø£Ù?ØµØ­ Ø¨Ù? Ù?Ù? Ù?Ù? Ù?Ø±Ù?Ø¯ Ø²Ù?Ø§Ø±Ø© Ø¨Ù?Ø²Ø±Øª Ù?Ø£Ù?Ù? Ø­Ù?Ù?Ù?Ø© | Ù?Ù?Ø§Ù? Ø£Ù?Ù? Ù?Ø§ Ù?Ù?Ù?Ù? Ø§Ù?Ù?Ù?Ù? Ø¹Ù?Ù? ÙÙ?Ù? Ø±Ø§Ø¦Ø¹| Ø¯Ù?ØªÙ? Ù?ØªØ£Ù?Ù?Ù?Ù?|Ù?Ø²Ù?Ø¯ Ù?Ù? Ø§Ù?ØªØ£Ù?Ù? Ù?Ø§Ù?Ù?Ù?Ø§ØµÙ?Ø© ÙÙ? ØªÙ?Ø¯Ù?Ù? Ø®Ø¯Ù?Ø§ØªÙ?Ù? Ø§Ù?Ø±Ø§Ø¦Ø¹Ø©...,See translation (English),,,,,,,,,,,,,,
+,,,,,,,,Tripadvisor,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,Mike h,5-Apr,a year ago,"Great hotel on the beach, and easy walking distance to medina. Staff excellent, and rooms of a  very good standard. Breakfast good, but no toasting machine or tea. Pool bar and restaurant very good but closes way too early around 5, which â?¦",,,,,,,,,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Obida T,5-May,7 months ago,Great place and fantastic workers! Really felt at home here. I want to mention Reem at the front desk who was very professional and assisted us with all our needs. My family and I enjoyed our vacation here in the beautiful city of Bin Zirte,,9 reviews,î??,More,î£?,Like,î ,Share,Response from the owner,7 months ago,"Thank you very much for your kind words! We are delighted that you felt at home at Bizerta Resort. We will pass on your thanks to Reem, who will be delighted to know that she helped make your stay enjoyable. It was a pleasure to welcome your family, and we hope to see you again very soon in our beautiful city of Bizerte!",,,,
+,,,,,,,,Tripadvisor,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,NavigaSANDRA,5-Jan,a year ago,"A horrible hotel with horrible non-existent services. I strongly advise you not to go there, to sleep and eat in any case!!! The staff is not friendly|Fast food is very very basic|Aside from the location, whether it is the welcome, the service or the quality/price ratio, everything needs to be reviewed...",,,,,,,,,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Hellboy,5-May,9 months ago,ØªØ¬Ø±Ø¨Ù? ÙÙ? ØºØ§Ù?Ø© Ø±Ù?Ø¹Ù? ÙÙ?Ø¯Ù? Ù?Ù?ØªØ§Ø² Ù?Ù?Ø§Ø¸ÙÙ?Ù? Ø§Ø³ØªÙ?Ø¨Ø§Ù? ÙÙ? ØºØ§Ù?Ù? ØªØ±Ø­Ù?Ø¨ Ø®Ø§ØµÙ? Ù?Ù?Ø§Ø¸Ù Ù?Ù?Ø¯Ù? ØªØ¹Ø§Ù?Ù? Ù?Ù?ØªØ§Ø² ØºØ±Ù Ø¬Ø¯Ø§ Ù?Ø¸Ù?ÙÙ? Ø´Ø¨Ù?Ù? Ø§Ù?Ù?Ø§Ù? ÙØ§Ù? Ø³Ø±Ø¹Ù? Ù? Ù?Ù?ØªØ§Ø²Ù? Ø§Ù?Ù? Ø¬Ø¯Ø§ Ù?Ù?ØªØ§Ø² Ø§Ù?ØµØ­ Ø¨Ù? Ø¨Ø´Ø¯Ù?,See translation (English),3 reviews Â· 1 photo,î??,More,î£?,,î ,Share,Response from the owner,9 months ago,"Dear Customer, 
+Many thanks for your positive review! We are delighted to know that you enjoyed your stay with us. Your satisfaction is our priority. We look forward to â?¦",Like,1.0,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,Sellani Abd elkarim (Notaire),5-May,3 months ago,ÙÙ?Ø¯Ù? Ù?Ù?ØªØ§Ø² Ø¬Ø¯Ø§ Ù?Ø®Ø¯Ù?Ø§Øª Ø¹Ø§Ù?Ù?Ø© Ù?Ø¥Ø³ØªÙ?Ø¨Ø§Ù? Ù?Ù?Ù?Ø² Ø¬Ø¯Ø§,See translation (English),Local Guide Â· 31 reviews Â· 3 photos,î??,More,î£?,Like,î ,Share,Response from the owner,3 months ago,Thank you for your commentð???. â?¦,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,Ayoub ID M'BARK,5-May,a year ago,"Wonderful experience ! I had during my recent stay at BIZERTA Hotel, I was impressed by the quality of service provided by the staff. â?¦",,Local Guide Â· 13 reviews,î??,More,î£?,,î ,Share,,,,Like,1.0,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,Racha Faracha,5-May,8 months ago,"ÙÙ?Ø¯Ù? Ù?Ø§Ø´Ø§Ø¡ Ø§Ù?Ù?Ù? Ù?Ù?ØµØ­Ù?  Ø¨Ø²Ù?Ø§Ø±ØªÙ?
+Ø¬Ù?Ø¯ Ù?Ù? Ø­Ù?Ø« Ø§Ù?Ø§Ø³ØªÙ?Ù?Ø§Ù? Ù?Ø§Ù?Ù?Ø¸Ø§ÙØ© Ù?Ø­ØªÙ? Ø§Ù?Ù?Ø·Ø¹Ù? Ø§ØªÙ?Ù?Ù? Ø²Ù?Ø§Ø±ØªÙ? Ù?Ø±Ø© Ø§Ø®Ø±Ù?",See translation (English),1 review,î??,More,î£?,Like,î ,Share,Response from the owner,8 months ago,"Good morning,
+Thank you for your warm review! We are delighted that you enjoyed your stay. Looking forward to seeing you again soon. â?¦",,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Taylan Dilek,5-Jan,3 years ago,"A complete disappointment. Internet coverage is not stable, almost none existing in the rooms. Water pressure was low in the bathroom. Cleanliness and hygiene are also not the strongest muscles. English language skills of the personnel need improvement as well. But the view is simply amazing.",,Local Guide Â· 60 reviews Â· 21 photos,î??,,î£?,Like,î ,Share,Response from the owner,2 years ago,"Hello â¤, we would like to thank you for your review and we hope to see you again at our hotel very soon â¤.",,,,
+,,,,,,,,Tripadvisor,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,Laila E,5-Feb,5 years ago,The room is spacious. Bed is not comfortable and the duvet was not put in a cover. Itâ??s very basic for its price and definitely doesnâ??t compare to other 4 star hotels. Not recommended unless itâ??s location makes sense for you. The breakfast â?¦,,,,,,,,,,,,,,,
+,,,,,,,,Tripadvisor,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Fida N,5-Feb,7 years ago,"At first glance, the Bizerta Resort seems ok. The reception area, the grounds outside, the beach access, the nice outdoors pool and the heated indoors pool all give the illusion that it's a proper hotel. Even the rooms are spacious. But â?¦",,,,,,,,,,,,,,,
+,,,,,,,,Tripadvisor,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,Danushi D,5-Feb,6 years ago,"We booked a triple room. When we got there, an extra bed was in place but with no sheets and only one big towel for the 3 of us. We told the reception but then had to remind them a further 2 times for anything to get done. When the sheets â?¦",,,,,,,,,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Ø§Ù?Ù?Ø§Ø¦Ù?Ù? Ø§Ù?Ø­Ø³Ù?Ù? Ø§Ù?Ù?Ø§Ø¦Ù?Ù?,5-May,5 years ago,"Ù?Ù?Ù?Ø¹ Ø¬Ø¯Ø§ Ø±Ø§Ø¦Ø¹ Ù?Ø³Ø¹Ø± 200 Ø¯Ù?Ù?Ø§Ø± ØªÙ?Ù?Ø³Ù? ÙÙ? Ù?Ø°Ø§ Ø§Ù?ØªØ§Ø±Ù?Ø® Ù?ØªØ¹Ø§Ù?Ù? Ø§Ù?Ù?Ù?Ø¸ÙÙ?Ù? Ø¬Ø¯Ø§ Ø¬Ù?Ù?Ù?.
+Ù?Ù?Ù?ØµÙ? Ø¨Ø¹Ø¶ Ø§Ù?ÙØ±Ø´ Ø§Ù?Ø¬Ø¯Ù?Ø¯
+ØµÙ?Øª Ø§Ù?Ù?Ù?Ø³Ù?Ù?Ù? Ø£Ù?Ø¶Ø§ ØµØ§Ø®Ø¨ â?¦",See translation (English),Local Guide Â· 65 reviews Â· 26 photos,î??,More,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Ø§Ù?Ù?Ø§Ù?Ù? Ø¨Ø±Ø§Ù?Ø®Ù?Ø§Ù? ØªÙ?Ù?Ø³,5-Apr,5 years ago,Ù?ØªÙ?Ù?Ø² Ù?Ø°Ø§ Ø§Ù?Ù?Ù?Ø§Ù? Ø¨Ø§Ù?Ù?Ø¯Ù?Ø¡ Ù?Ø§Ù?Ù?Ø¸Ø§ÙØ©   Ù?Ø¨Ø´Ø§Ø´Ø© Ø§Ù?Ù?Ø§Ø¦Ù?Ù?Ù? Ø¹Ù?Ù?Ù? . Ø£Ù?Ø§ Ø£Ø±ØªØ§Ø¯Ù? ÙÙ? Ø§Ù?Ù?Ù?Ø§Ø³Ø¨Ø§Øª Ø§Ù?Ù?Ù?Ù?Ø© Ø¹Ù?Ø¯Ù?Ø§ Ù?Ø­Ù? Ø¹Ù?Ù?Ù? Ù?Ø²Ù?Ø± Ø¯Ù?Ù?Ø© Ù? Ø³ÙÙ?Ø± Ø¯Ù?Ù?Ø© Ù?Ø§Ù?Ø¥Ø·Ø§Ø±Ø§Øª Ø§Ù?Ø¬Ù?Ù?Ù?Ø© ÙÙ? Ø¥Ø·Ø§Ø± Ø§Ù?Ø¹Ù?Ù? ØªÙ?Ù?Ù? Ø§Ù?Ø¨Ù?Ø¯Ù?Ø© Ø³Ø¨Ø§Ù?Ø© Ù?Ø±ÙØ¹ Ø§Ù?Ø£Ø¹Ù?Ø§Ù? Ø­Ù?Ø« Ø£Ù?Ù?Ù? Ø£Ù?Ø§  Ø­Ø§Ø¶Ø±Ø§ Ø¹Ù?Ù? Ù?ØªÙ? ØµÙ?Ø±Ù?Ø¬ Ø§Ù?Ù?Ù?Ø§Ù? Ù?Ø£Ù?Ù?Ù? Ø¨ØªÙ?Ø¸Ù?Ù Ù?Ø­Ù?Ø· Ù?Ø°Ø§ Ø§Ù?Ù?Ø¨Ù?Ù? . Ø¥Ù?Ù? Ø¹Ù?Ù? Ù?Ù?ØªØ¹ Ø«Ù?Ø§Ø«Ø© Ù?Ù?Ø§Ø«Ù?Ù? Ø³Ù?Ø© Ø¥Ù?Ù? Ø£Ù? Ù?Ø§Ø¯Ø§Ù?Ù? ØµÙ?Ø¯Ù?Ù? Ø§Ù?ØªÙ?Ø§Ø¹Ø¯,See translation (English),6 reviews Â· 1 photo,î??,,î£?,,î ,Share,,,,Like,1.0,,
+,,,,,,,,Tripadvisor,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,Michael G,5-Jan,6 years ago,Old style hotel which needs refurbishing not to mention the dirt. A cookie that fell under my table took three days to be cleaned. Not tourist friendly....waiters need to know how to deal with tourists and make them happy. Wifi is disaster. Will not return to this hotel.,,,,,,,,,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Ezdehar Alaqely,5-Apr,a year ago,Ø§Ù?ÙÙ?Ø¯Ù? Ø§Ù?ØªØ¹Ø§Ù?Ù? Ù?Ù?ØªØ§Ø² Ø§Ù?Ø§Ø·Ù?Ø§Ù?Ø© Ø¬Ù?Ù?Ù?Ø© Ø§Ù?Ø¨Ø­Ø±Ø¬Ù?Ù?Ù? Ø§Ù?Ø¨Ù?Ù?Ù?Ù?Ø©Ù? Ø¬Ù?Ù?Ù?Ø© Ù?Ù?Ù?Ù? Ù?Ø¯Ù?Ù? Ø¬Ø¯Ø§ Ù?Ø§Ø¨Ø¯ Ù?Ù? ØªØ¬Ø¯Ù?Ø¯Ù? Ù?Ø®Ø§ØµØ© Ø§Ù?Ø­Ù?Ø§Ù?Ø§Øª Ù?Ù?Ø±ÙØ© Ù?Ø§Ù?Ù?Ø¬Ø¯ Ø´Ø¨Ø´Ø¨ Ø­Ù?Ø§Ù? Ù?Ù?Ø§ ÙØ±Ø´Ø© Ø§Ø³Ù?Ø§Ù? Ù?Ù?Ø§ Ù?Ø¹Ø¬Ù?Ù? Ù?Ø§Ù?Ø¶Ø§ ØªØ­ØªØ§Ø¬ Ø§Ù?Ø­Ù?Ø§Ù?Ø§Øª Ù?Ø§Ù?ÙÙ?Ø¯Ù? ØªØ¬Ø¯Ù?Ø¯ÙØ§Ù?Ø¨Ù?Ø§Ø· Ù?Ù?Ø¬Ø¯ Ø¹Ù?Ù?Ù? Ø¨Ù?Ø¹ ØµØ¯Ø£ Ù?Ù?Ø²Ø²Ø© Ø§Ù?Ø¶Ø§ Ù?Ø§Ù?Ù?Ø¬Ø¯ Ø´ÙØ§Ø· Ù?Ù?Ø§Ø¡ Ù?Ù?ØªÙ?Ù?Ù?Ø© ÙÙ? Ø§Ù?Ø­Ù?Ø§Ù? Ø§Ù?Ø­Ù?Ø§Ù? Ø³Ø¨Ø¦ Ø¬Ø¯Ø§,See translation (English),Local Guide Â· 146 reviews Â· 4 photos,î??,More,î£?,,î ,Share,,,,Like,1.0,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Ah Mo,5-May,7 months ago,Excellent services and nice staff. The Lady named Reem that works here is very nice and helpful.,,9 reviews Â· 1 photo,î??,More,î£?,Like,î ,Share,Response from the owner,7 months ago,Thank you so much for your positive feedback! We're delighted to hear that you enjoyed our services and staff. Reem will be thrilled to know she helped make your stay enjoyable. We look forward to welcoming you back soon!,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,2022 Obvious1,5-Feb,3 years ago,"Dirty and rather unhygienic. Food gets recycled for about 3-4 days. However, staff were friendly. Hotel Nour next door is much better and cheaper.",,1 review,î??,,î£?,Like,î ,Share,Response from the owner,2 years ago,"Hello â¤, we would like to thank you for your review and we hope to see you again at our hotel very soon â¤.",,,,
+,,,,,,,,Tripadvisor,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,Marija T,5-Jan,7 years ago,Oh well where do i begin...first of all we book this hotel because our friend had wedding so we had to stay one night...we book sea view room and paid for it and guess what got the street view...ok we won't bother it is just one night and â?¦,,,,,,,,,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Eric W,5-May,3 years ago,Very reasonable prices and great Tunisian food. The lamb dishes are superb. The cuttlefish prepared with garlic was amazing. Deserts are plentiful too.,,Local Guide Â· 111 reviews Â· 25 photos,î??,,î£?,,î ,Share,,,,Like,1.0,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,Dan .,5-Mar,6 years ago,"Very nice view, friendly staff but the building is quite old and the restaurant feel you like you are eating the leftover of the previous meal... I went for Hotel Nura which is very close, much better and cheaper",,Local Guide Â· 87 reviews Â· 148 photos,î??,,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Lokesh Sinha,5-May,11 months ago,"Nice place to stay and very good for weekend, with nice nice beaches near to resort",,Local Guide Â· 24 reviews Â· 57 photos,î??,More,î£?,,î ,Share,,,,Like,2.0,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,B McKenzie,5-Apr,11 months ago,"The rooms are basic, but the view and silence is outstanding.",,Local Guide Â· 111 reviews Â· 266 photos,î??,More,î£?,,î ,Share,,,,Like,1.0,,
+,,,,,,,,Tripadvisor,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,Sebbe D,5-Mar,8 years ago,Can't complain about the staff and the cleanliness of the rooms although some softener could be used for the towels..||The restaurant is of poor quality and service for such a luxury hotel beneath expectation.||Breakfast is ok but the coffee was exceptionally lousy,,,,,,,,,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,Malik Elkebir,5-Feb,5 years ago,Ù?Ø²Ù? Ø¬Ù?Ø¯ Ø°Ù? Ù?Ø±Ø§ÙÙ? Ù?Ø¸Ù?ÙØ© Ù?Ù?Ù?Ù?Ù? Ø¹ØªÙ?Ù? Ø£Ù?Ø¶Ø§Ù? Ù?Ù?Ø§ ØªÙ?Ø¬Ø¯ Ø®Ù?Ø§Ø±Ø§Øª Ù?Ø¨Ù?Ø±Ø© ÙÙ? Ø§Ù?Ø£Ù?Ù? Ù?Ù?Ø§ Ù?Ø§ ØªÙ?Ø¬Ø¯ Ø®Ø¯Ù?Ø§Øª Ø³Ø±Ù?Ø¹Ø© Ù?Ù?Ø³ØªØ¬Ù?Ø¨Ø© Ù?Ø¹ Ø·Ù?Ø¨Ø§Øª Ø§Ù?Ø³Ø§Ù?Ù?Ù?Ù?.,See translation (English),Local Guide Â· 28 reviews Â· 135 photos,î??,,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,Atlantik Verdun,5-Jan,2 years ago,They make you pay 3 TD per water bottle in the restaurant were you already paid for the food. What a Big Shame,,9 reviews,î??,,î£?,Like,î ,Share,Response from the owner,2 years ago,"We are very sorry to hear that you didn't have a great experience in our hotel â?? our mission is to provide excellent guest experiences, so we are sorry to have let you down. We have taken your feedback on board, and we will strive to make improvements accordingly.",,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,Houda Rouaissi,5-Mar,9 years ago,this is truly wonderful and perfect hotel.. tasty food and   awesome service..the atmosphere was really buzzing and glamorous.,,Local Guide Â· 316 reviews Â· 396 photos,î??,,î£?,,î ,Share,,,,Like,1.0,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Alfredo Serra,5-May,6 years ago,"It was a great place to stay. Restaurant stayed open till 10,30pm. Great food and service.",,Local Guide Â· 75 reviews Â· 120 photos,î??,,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Max Moudi,5-Jan,13 years ago,"The rooms are ok. But the hotel is a little bit pretentious and expensive. The food of the restaurant which is claiming to be gastronomic is particularly poor.
+The staff is not professional.",,38 reviews,î??,,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,J Tour,5-Jan,6 years ago,Very old hotel. I think best for young party people. Disturbing loud music during the afternoon.,,Local Guide Â· 242 reviews Â· 987 photos,î??,,î£?,,î ,Share,,,,Like,1.0,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,wissal tissaoui,5-May,7 years ago,One of the most clean and big hÃ´tel in the city....u should try it,,Local Guide Â· 650 reviews Â· 73 photos,î??,,î£?,,î ,Share,,,,Like,1.0,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Ahmed Garsalli,5-May,6 years ago,Good for couple of days out ! Corridors' lights are dim and not heated tho.,,Local Guide Â· 17 reviews,î??,,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,juhainah jababili,5-Apr,a year ago,Ù?Ù?Ø§Ù? Ø¬Ù?Ù?Ù? ð?? Ù?Ù?Ø¸Ù?Ù Ù?Ø§Ù?Ø³Ø¹Ø± Ø¬Ù?Ø¯ Ø¬Ø¯Ø§Ù? â?¦,See translation (English),Local Guide Â· 376 reviews Â· 344 photos,î??,More,î£?,,î ,Share,,,,Like,1.0,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,RIAD ASSAGHIR,5-Apr,7 years ago,"Nice hotel, nice pool, the room was clean and comfort",,Local Guide Â· 60 reviews Â· 63 photos,î??,,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,Mrad Chems Eddine,5-May,3 years ago,"Clean room, swimming pool, newrby beach, friendly staff, cheap services (except for the dinner),",,18 reviews Â· 3 photos,î??,,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,Ahmed ALfaqeeh,5-May,6 years ago,Ù?Ø±ÙØ¦ Ø¨Ù?Ø²Ø±Øª  Ø¬Ù?Ù?Ù? Ø¬Ø¯Ø§ Ù?Ø§Ù?Ø§Ù?Ø§Ù?Ø© Ù?Ù?ØªØ¹Ù?.,See translation (English),Local Guide Â· 214 reviews Â· 149 photos,î??,,î£?,,î ,Share,,,,Like,1.0,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Ø¹Ù?Ø§Ø¸Ù?Ù? Ù?Ù?Ù?Ù?Ù?Ø©,5-May,6 years ago,ÙÙ?Ø¯Ù? Ø¬Ù?Ù?Ù?... Ù?Ù?Ø§Ù?Ø© Ø¨Ù?Ø²Ø±Øª Ù?Ø§Ø¯Ù?Ù? Ù?Ø¬Ù?Ù?Ù?Ù?,See translation (English),Local Guide Â· 4 reviews Â· 11 photos,î??,,î£?,,î ,Share,,,,Like,1.0,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Faycel Aouadi,5-Mar,7 years ago,Ø´Ù?Ø±Ø§ Ø¹Ù?Ù? Ø§Ù?Ù?Ø¬Ù?Ù?Ø¯ Ø´Ù?Ù?Ø§ Ù?Ù?Ù?Ø§ Ù?Ù? Ù?Ø­Ù?Ø© Ø§Ù?Ù?Ø¸Ø§ÙÙ? Ø´Ù?Ø±Øª Ù?Ø¨ï»»Ø¬  Ø¨ØªÙ?ÙÙ?Ù?,See translation (English),1 review Â· 1 photo,î??,,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,khalid ghunaim,5-Mar,7 years ago,ÙÙ?Ø¯Ù? Ø±Ø§Ø¦Ø¹ ÙÙ?Ù? Ø¬Ù?Ù?Ø¹ Ø§Ù?Ø®Ø¯Ù?Ø§Øª,See translation (English),Local Guide Â· 59 reviews Â· 51 photos,î??,,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,jaky gideonse,5-Mar,5 years ago,"Hotel is ok, wifi in the rooms is terrible",,Local Guide Â· 20 reviews Â· 23 photos,î??,,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Ø§Ù?Ø±Ø­Ø§Ù? Ø§Ù?Ø´Ù?Ø±Ù?,5-Apr,5 years ago,Ø¬Ù?Ù?Ù? Ù?Ù?Ù?Ø¸Ø± Ø®Ù?Ø§Ø¨ Ù?Ø£ÙØ¶Ù? Ø§Ù?Ù?Ù?Ø¬Ù?Ø¯ ÙÙ? Ø¨Ù?Ø²Ø±Øª,See translation (English),Local Guide Â· 129 reviews Â· 2 photos,î??,,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Mahmoudâ? â?Moawad Zidane,5-May,6 years ago,ÙÙ?Ø¯Ù? Ù?Ù? Ø§ÙØ¶Ù? Ø§Ù?ÙÙ?Ø§Ø¯Ù? Ø§Ù?ÙÙ?Ù? Ø§Ù?Ù?ØªÙ?Ø³Ø·Ù? Ø§Ù? ÙÙ?Ù? Ø§Ù?Ù?ØªÙ?Ø³Ø·Ù?,See translation (English),Local Guide Â· 35 reviews Â· 2 photos,î??,,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,Hassan Almalki,5-May,6 years ago,ÙÙ?Ø¯Ù? Ù?Ù?ØªØ§Ø² Ù?Ù?Ø§Ø³ Ø·Ù?Ø¨Ù?,See translation (English),Local Guide Â· 29 reviews,î??,,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Ù?Ø§Ø¬Ø¯ Ø¹Ø³Ù?Ø±Ù?,5-May,6 years ago,Ù?Ù?Ø§Ø§Ø§Ø§Ø§Ø§Ù? Ø±Ø§Ø¦Ø¹ Ø¬Ø¯Ø§Ù? Ù?Ù?Ø§Ù?Ø§Ù?Ø© Ù?Ø§Ù?Ø§Ø³ØªØ¬Ù?Ø§Ù?,See translation (English),Local Guide Â· 82 reviews Â· 464 photos,î??,,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,samir rezzag,5-May,6 months ago,Ù?Ù?ØªØ§Ø²Ø©,See translation (English),Local Guide Â· 4 reviews Â· 96 photos,î??,More,î£?,Like,î ,Share,Response from the owner,3 months ago,Thank you for your review we hope to see you again very soon in our hotel!,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,Salahadden Kalfalla,5-Apr,4 years ago,ÙÙ?Ø¯Ù? Ù?Ù?ØªØ§Ø² Ù?Ø±Ù?Ø­ Ù?Ù?Ø¸Ù?Ù,See translation (English),Local Guide Â· 46 reviews Â· 37 photos,î??,,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,Youssef Ezbakh,5-May,2 years ago,I felt very well over thereð?¥°â¤ â?¦,,Local Guide Â· 261 reviews Â· 249 photos,î??,More,î£?,Like,î ,Share,Response from the owner,2 years ago,"Hello â¤, we would like to thank you for your review and we hope to see you again at our hotel very soonâ¤",,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,SÃ©bastien â??Sebbeâ? D'Hose,5-Feb,6 years ago,Poor restaurant. Not enough sockets in the room,,"Local Guide Â· 59 reviews Â· 1,651 photos",î??,,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,FABIO DE ROSA,5-Apr,6 years ago,"Good , close to the beach.",,Local Guide Â· 302 reviews Â· 108 photos,î??,,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,Ø¨Ø´Ù?Ø± Ø§Ù?Ø¨Ø¬Ø§Ù?Ù?,5-Jan,6 years ago,Ù?Ø§ Ù?Ù?Ù? Ø¨Ù? ÙÙ?Ø¯Ù? 5Ù?Ø¬Ù?Ù?,See translation (English),Local Guide Â· 12 reviews Â· 20 photos,î??,,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,Dr Tahar Haddad,5-Jan,2 years ago,The restaurant servers were rude !,,Local Guide Â· 31 reviews Â· 34 photos,î??,,î£?,,î ,Share,Response from the owner,2 years ago,"We are very sorry to hear that you didn't have a great experience in our hotel â?? our mission is to provide excellent guest experiences, so we are sorry to have let you down. We have taken your feedback on board, and we will strive to make improvements accordingly.",Like,1.0,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Chris Christensen,5-Apr,6 years ago,The restaurant is amazing,,Local Guide Â· 57 reviews Â· 3 photos,î??,,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,T. Hofmann,5-May,a year ago,Top,,Local Guide Â· 250 reviews Â· 250 photos,î??,More,î£?,,î ,Share,,,,Like,1.0,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,Sailendra Prasad,5-May,5 years ago,Good place and food,,Local Guide Â· 44 reviews Â· 23 photos,î??,,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Adel M.,5-May,5 years ago,It's so beautiful,,Local Guide Â· 65 reviews Â· 1 photo,î??,,î£?,Like,î ,Share,Response from the owner,5 years ago,"Thank you, You're Welcome ! we hope to see you soon http://www.bizertaresort.com/",,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,Raed Ghanja,5-Apr,6 years ago,Great,,Local Guide Â· 205 reviews Â· 641 photos,î??,,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,Awatef Riahi,5-Mar,6 years ago,Good service,,Local Guide Â· 110 reviews Â· 332 photos,î??,,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,hariu loolpo,5-May,7 years ago,Try it,,Local Guide Â· 15 reviews Â· 3 photos,î??,,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,ben younse amani,5-Apr,2 years ago,ÙÙ?Ø¯Ù? Ù?Ù?ØªØ§Ø²Ø©,See translation (English),Local Guide Â· 89 reviews Â· 130 photos,î??,More,î£?,,î ,Share,,,,Like,1.0,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Ajlani Nabil,5-May,8 years ago,Excellent Service,,696 reviews Â· 72 photos,î??,,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Sofien Menzli,5-May,2 years ago,Excellent,,1 review,î??,More,î£?,Like,î ,Share,Response from the owner,2 years ago,"Helloâ¤, we would like to thank you for your review and we hope to see you again at our hotel very soonâ¤.",,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,Aymen Akkari,5-Mar,8 years ago,Cool,,Local Guide Â· 82 reviews Â· 105 photos,î??,,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,firas Marouani,5-Apr,7 years ago,Ø±Ù?Ø¹Ø©,See translation (English),2 reviews,î??,,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Vedad Hota,5-May,5 years ago,Top,,21 reviews,î??,,î£?,Like,î ,Share,Response from the owner,5 years ago,"Hello, we thank you for your trust and we hope to see you again at our hotel.",,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,Vimal,5-Apr,7 years ago,Good resort.,,Local Guide Â· 6 reviews Â· 520 photos,î??,,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,Murat Tilki,5-May,10 years ago,Great palas,,Local Guide Â· 6 reviews Â· 70 photos,î??,,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,Ù?Ù?Ø³Ù Ø§Ù?Ù?Ù?Ù?Ø§Ø±Ù?,5-May,5 years ago,Ø­Ù?Ù?Ù?Ù?Ù?,See translation (English),2 reviews,î??,,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Fawzia Rifi,5-Apr,7 years ago,Ø§Ù?Ù?Ø³Ø¨Ø­ Ø±Ø§Ø¡Ø¹,See translation (English),1 review Â· 1 photo,î??,,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,K,5-Mar,6 years ago,good location,,Local Guide Â· 58 reviews Â· 15 photos,î??,,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,Mohamed Ghribi,5-May,8 years ago,Cool !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,,1 review,î??,,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,Amine mechergui,5-Mar,8 years ago,Cool,,"Local Guide Â· 151 reviews Â· 1,380 photos",î??,,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,MUBARAK ALHAGBANI,5-Jan,8 months ago,,,Local Guide Â· 19 reviews Â· 30 photos,î??,More,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Tripadvisor,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Rani C,5-May,a month ago,"A very warm welcome for a group of around forty people: the team is attentive, available, and professional. The rooms are spacious and clean, the view is magnificent, and everyone is very attentive. The restaurant offers a buffet with â?¦",See original (French),,,,,,,,,,,,,Translated by Google,ã?»
+,,,,,,,,Tripadvisor,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,Barbara B,5-May,3 weeks ago,"Perfect welcome, friendly and attentive staff. I appreciated the large, generous buffet, with European and Tunisian specialties. The whole group appreciated the work room with sea view and the possibility of quickly going outside to chat or â?¦",See original (French),,,,,,,,,,,,,Translated by Google,ã?»
+,,,,,,,,Tripadvisor,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Ami M,5-Apr,a month ago,"I spent a week of training at the Bizerta resort hotel, we were a group of about 50 participants, the hotel staff took great care of us, the food was varied and very good, the rooms very clean and comfortable. Between the beach and the â?¦",See original (French),,,,,,,,,,,,,Translated by Google,ã?»
+,,,,,,,,Tripadvisor,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Maike K,5-Apr,a month ago,"The staff is really friendly and attentive, the meals are good and balanced, and the rooms are clean and comfortable. A very good experience, highly recommended... What also impressed me was the peace and quiet. I slept with the window open without any problem. Thank you for this wonderful week.",See original (French),,,,,,,,,,,,,Translated by Google,ã?»
+,,,,,,,,Tripadvisor,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,Johanna B,5-May,a month ago,"A very comfortable place, with excellent service. Throughout our training, we received a very warm welcome, snack breaks were provided, the rooms were cleaned excellently, and all the staff were friendly, welcoming, and cheerful. I recommend this place for a great time by the sea and a very warm welcome!",See original (French),,,,,,,,,,,,,Translated by Google,ã?»
+,,,,,,,,Tripadvisor,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,Laura P,5-May,a month ago,"The hotel is very well equipped and very clean, thank you to the staff! |We had a very good stay. The view is very beautiful. |The staff is very kind. We had a great time. |The sea is very close and that is pleasant. We are happy with our stay.",See original (French),,,,,,,,,,,,,Translated by Google,ã?»
+,,,,,,,,Tripadvisor,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,Rafik U,5-May,a month ago,Spacious and clean room. Friendly and professional staff. Pleasant space and varied and good food. I recommend the Bizerta resort for a professional and personal stay. Very pleasant setting with very suitable meeting spaces.,See original (French),,,,,,,,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,CC A,5-Apr,5 months ago,"I spent three weeks at this hotel.
+The staff is very friendly and always willing to help.
+The location is quiet and close to all activities.
+The meals are decent, and you absolutely must try the spa.",See original (French),13 reviews Â· 8 photos,î??,More,î£?,Like,î ,Share,Response from the owner,3 months ago,"Good morning, 
+Many thanks for your positive feedback! We are delighted to learn that your stay with us was pleasant and that you appreciated the kindness of our staff, the â?¦",,,Translated by Google,ã?»
+,,,,,,,,Tripadvisor,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Nadira B,5-May,a month ago,"Very pleasant hotel, welcoming staff, impeccable hygiene, very satisfactory food, the beach is accessible, the work rooms are spacious, there is also the swimming pool and the gym to allow you to relax, I tried a 50 minute sauna but I found â?¦",See original (French),,,,,,,,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Mehdi Mazhoud,5-Jan,4 months ago,"AVOID
+I STRONGLY ADVISE NOT. â?¦",See original (French),3 reviews,î??,More,î£?,,î ,Share,Response from the owner,3 months ago,"Good morning,
+We are sorry to hear about your experience and understand your frustration with this situation. The satisfaction and safety of our customers are a priority for â?¦",Like,1.0,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,imed tanfous,5-May,2 months ago,"Impeccable!!!
+Very warm welcome and top-notch service (very attentive).
+The icing on the cake: the top-notch cuisine. â?¦",See original (French),10 reviews Â· 9 photos,î??,More,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Tripadvisor,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,Ã?n Ã?,5-May,a month ago,"It was a pleasant experience, plus the people at the hotel welcomed us very well. I would give it 5 stars. Thank you very much to Bizert and all the people I met, Tunisians, Moroccans, and even the French and Germans.",See original (French),,,,,,,,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Discart Vondi,5-Jan,2 months ago,Inappropriate hotel....breakfast and dinner in the morning are not up to par....plus the customer service is very poor......considering the price of the hotel.....please stay away. Please don't be fooled like we were.,See original (French),2 reviews,î??,More,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Jean-Pierre Arnaud,5-Mar,6 months ago,"I had a pleasant stay. There weren't too many people. It was very calm.
+I liked the hotel restaurant less",See original (French),Local Guide Â· 12 reviews Â· 3 photos,î??,More,î£?,Like,î ,Share,Response from the owner,3 months ago,"Good morning,
+Thank you for taking the time to share your experience. We are delighted that you enjoyed the peace and quiet of your stay. â?¦",,,Translated by Google,ã?»
+,,,,,,,,Tripadvisor,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,imed t,5-May,2 months ago,Impeccable!!!|Very warm welcome and top-notch service (very attentive).|The icing on the cake = the top-notch cuisine|The swimming pool is well heated.|The parking is secure.|Ideal for summer and winter.|The best of Bizerte.|I recommend it 100%|Have a good trip ð??? â?¦,See original (French),,,,,,,,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,G A,5-Apr,a month ago,"Beautiful, comfortable room, the bathroom a bit dated
+Friendly, helpful staff
+The restaurant has a simple but good buffet",See original (French),Local Guide Â· 32 reviews,î??,More,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Abdel Lassoued,5-Jan,6 months ago,"For asthma sufferers like me, I do not recommend this hotel. It has the particularity of having carpets in the rooms and what's more is not systematically cleaned. Especially since the hotel does not have non-smoking rooms (all rooms have â?¦",See original (French),Local Guide Â· 345 reviews Â· 588 photos,î??,More,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Siwar Chtioui,5-Jan,6 months ago,"""Absolutely avoid! Very dirty hotel, you can smell dust everywhere. We paid for a room with a sea view, the receptionist assured us that he had given us one of the best rooms. When we arrived, surprise: the door to the room was wide open â?¦",See original (French),Local Guide Â· 125 reviews Â· 248 photos,î??,More,î£?,Like,î ,Share,Response from the owner,3 months ago,"Good morning,
+We are sorry to hear that your experience at our hotel did not meet your expectations. We take your comments very seriously and deeply regret the inconvenience â?¦",,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Laura Ponce,5-May,8 months ago,"I think it was the best possible experience we could have here, moving to Bizerte, we booked at the hotel in the meantime, the hotel members were always there to make the time spent pleasant, very available to the guests and kind, whether â?¦",See original (French),3 reviews,î??,More,î£?,Like,î ,Share,Response from the owner,7 months ago,"Thank you very much for this wonderful feedback! We are delighted that your experience at Bizerte Resort was so positive, especially at such an important time for you. Our team is always here to make our guests' stay as pleasant as â?¦",,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,C M,5-Apr,8 months ago,"I'm only judging the pool area. I find the entrance fee reasonable, around 40 TD. The pool is large and well-maintained. The setting is relaxing, with direct access to the beach. A nice relaxing day. â?¦",See original (French),Local Guide Â· 130 reviews Â· 42 photos,î??,More,î£?,Like,î ,Share,Response from the owner,7 months ago,"Thank you for your detailed feedback. We are delighted that you enjoyed the swimming pool and the relaxing atmosphere of our establishment. Regarding your comments on the snack bar and the cleanliness of the toilets, we take them very â?¦",,,Translated by Google,ã?»
+,,,,,,,,Tripadvisor,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Danilo V,5-Jan,6 months ago,"Simply SHAMEFUL. Room full of ants, yellow stained sheets, mold on the walls, dirt and hair everywhere. Terrace communicating with the terraces of the other rooms, too bad I couldn't close the balcony and anyone could have come in and stolen everything. RUN AWAY!!!!",See original (Italian),,,,,,,,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,M K,5-Mar,7 months ago,"The hotel room and reception are nice, as are the receptionists.
+On the other hand, the restaurant staff is greedy and indecent. We had lunch, and when I left my 81-year-old mother alone, the staff asked her to pay for the â?¦",See original (French),Local Guide Â· 67 reviews Â· 56 photos,î??,More,î£?,Like,î ,Share,Response from the owner,7 months ago,"Thank you for your feedback. We are delighted that you enjoyed the room and the welcome at reception. We sincerely apologize for the incident at the restaurant. This does not reflect our standards, and we will ensure that it does not happen again. We hope to welcome you again for a better experience.",,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,Elisa Meynier,5-May,a month ago,Beautiful hotel with really attentive staff and delicious food.,See original (French),1 review,î??,More,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,Christophe,5-Jan,10 months ago,"Very bad experience: I strongly advise against it!
+Go your own way despite the exterior appearance.
+Dilapidated hotel, unpleasant reception staff (unheard of in Tunisia), dirty â?¦",See original (French),3 reviews,î??,More,î£?,,î ,Share,Response from the owner,10 months ago,"Dear Customer, 
+We are sincerely sorry to learn that your experience at our hotel did not meet your expectations. Your opinion is extremely important to us, and we take your â?¦",Like,2.0,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Sonia Gara,5-May,7 months ago,"Honestly we came as a family to this hotel and frankly pleasantly surprised the first week in a hotel in Sousse disaster the second week in this hotel super Bizerta resort!!!; , clean room thank you to the cleaning lady of the 4th super â?¦",See original (French),Local Guide Â· 16 reviews,î??,More,î£?,Like,î ,Share,Response from the owner,7 months ago,"Thank you very much for your warm review! We are delighted that your stay at Bizerte Resort exceeded your expectations. Your satisfaction is our priority, and we will not fail to pass on your compliments to the entire team, in particular to â?¦",,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,hela T,5-May,7 months ago,"The team is very welcoming, the swimming pool is large and clean, the calm, the cleanliness,...I recommend",See original (French),10 reviews Â· 2 photos,î??,More,î£?,Like,î ,Share,Response from the owner,3 months ago,"Hello, thank you for your review, we hope to see you again very soon in our hotel!",,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,haykiru 75,5-May,8 months ago,"Superbly located hotel, very welcoming and warm staff, particularly the morning receptionist and Mrs. Rim, we will be happy to come back",See original (French),5 reviews,î??,More,î£?,,î ,Share,Response from the owner,8 months ago,Thank you for your positive review. We are delighted that you appreciated our location and the welcome of our team. We will be happy to welcome you again soon! â?¦,Like,2.0,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,julie boyer,5-Apr,a year ago,"The hotel needs updating, both in terms of the rooms and especially the bathrooms.
+The food isn't great, but that's what most hotels in Tunisia are like.
+The pool is great, as is the private beach.",See original (French),14 reviews,î??,,î£?,,î ,Share,,,,Like,3.0,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,BÃ©chir khiari,5-Mar,a year ago,"Bizerta Resort Congress & SPA: A peaceful seaside haven
+
+Ideal location: Located on the Sidi Salem corniche in Bizerte, the Bizerta â?¦",See original (French),"Local Guide Â· 229 reviews Â· 1,624 photos",î??,More,î£?,,î ,Share,,,,Like,2.0,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,LOURDES ELÃAS SÃENZ,5-May,a year ago,"We had dinner. It's Ramadan, and the hotel where we were staying didn't offer dinner. They welcomed us at this Bizerte hotel. The buffet was fantastic, with very friendly and helpful service. Thank you very much.",See original (Spanish),Local Guide Â· 131 reviews Â· 2 photos,î??,More,î£?,,î ,Share,,,,Like,1.0,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,Cherif Hamza,5-Jan,8 months ago,"I strongly advise against changing direction. Breakfast is from a 2-star hotel, not a 4-star hotel, and also the walls, bathroom, and carpet are dirty, even the bed frame is dirty. Honestly, it's not a 4-star hotel.",See original (French),3 reviews Â· 3 photos,î??,More,î£?,Like,î ,Share,Response from the owner,7 months ago,"We are sorry to learn that your stay did not meet your expectations. Your comments are taken very seriously, and we will review them carefully to make any necessary improvements. We hope to have the opportunity to provide you with a better experience in the future.",,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,fabrizio rainaldi,5-Mar,8 months ago,"Let's say that all in all it's not bad. Large rooms, comfortable bed and wonderful view from the room. Of course the cleaning is a bit so...don't look at the carpet or the fingerprints in the bathroom...good and rich breakfast. Very kind staff",See original (Italian),"Local Guide Â· 1,184 reviews Â· 4,079 photos",î??,More,î£?,,î ,Share,Response from the owner,8 months ago,"Thanks for your feedback! We are happy that you liked the spacious rooms, the comfortable bed and the view from the room. We are sorry about the cleanliness, we will take your comment seriously. We are happy that you liked the breakfast and our staff. We hope to welcome you again soon!",Like,1.0,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,Luis Alcazar,5-Mar,2 years ago,"This hotel is located on the beach, just two minutes from the historic center. It has a spa, pub, pool, buffet, and all the amenities and is quite comfortable. â?¦",See original (Spanish),Local Guide Â· 115 reviews Â· 383 photos,î??,More,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Tripadvisor,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,5gattini,5-Apr,9 years ago,"I don't understand which hotel other travellers have been to to make such terrible reviews. I agree that the name resort is inappropriate, but otherwise it is definitely a good hotel at least for a business stay. I finally found European â?¦",See original (Italian),,,,,,,,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,Asier Escalero,5-Feb,a year ago,"There are times when a person questions the criteria used to award stars. I don't understand how they gave it 4. The hotel is all facade, old rooms, and poor housekeeping. I travel often for work; I tried an alternative, the Hotel Nour next door, and I couldn't have been more disappointed.",See original (Spanish),Local Guide Â· 18 reviews Â· 19 photos,î??,More,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,flo,5-Jan,3 years ago,"Hotel with potential, but very poorly exploited! Large, bright room but old and not very clean (carpet, shower seal, tiles, etc.) wifi only in the hotel lobby because in the rooms it works very, very poorly! (the director and employees are â?¦",See original (French),8 reviews,î??,More,î£?,,î ,Share,,,,Like,2.0,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,Lydia Dg,5-May,2 years ago,"One-week stay.
+Attentive and attentive staff.
+Breakfast a little disappointing, but everything else was very good. â?¦",See original (French),8 reviews,î??,More,î£?,,î ,Share,Response from the owner,2 years ago,"Hello â¤, we would like to thank you for your review and we hope to see you again at our hotel very soon â¤.",Like,2.0,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Sabri Benlahoual,5-May,2 years ago,"We are currently staying at the hotel for four nights. The room staff took great care of us. The pool was clean and the restaurant was good. Everything went well during check-in, and our room was exactly as we expected. We will definitely be back soon.",See original (French),Local Guide Â· 40 reviews Â· 10 photos,î??,More,î£?,Like,î ,Share,Response from the owner,2 years ago,"Hello â¤, we would like to thank you for your review and we hope to see you again at our hotel very soon â¤.",,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Iane Sof,5-Jan,7 years ago,"We had a terrible night.
+* A smell of ""fuel"" in the room (used to clean the carpet). After changing rooms, we got another one with the same terrible smell. â?¦",See original (French),Local Guide Â· 5 reviews,î??,More,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,Chamoune briquet,5-Feb,2 years ago,"Hotel which could be nice and get 4 stars except that the swimming pool is ridiculous with too many people outside inside, filtered! And in the air conditioning which makes the sound of a washing machine spinning, which barely works! â?¦",See original (French),Local Guide Â· 47 reviews Â· 15 photos,î??,More,î£?,,î ,Share,Response from the owner,2 years ago,"We thank you for coming to our hotel and taking the time to write a review to which we pay the greatest attention. Your complaint will be forwarded to our hotel management and will be treated with the greatest attention.
+Kind regards.",Like,1.0,Translated by Google,ã?»
+,,,,,,,,Tripadvisor,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,JumperBasel,5-Mar,14 years ago,"I've stayed at this hotel three times now while traveling for business. If you're lucky enough to get a room facing the sea, it's a very pleasant stay. The hotel is right on the sea and therefore offers a wonderful view of the â?¦",See original (German),,,,,,,,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Anonyme,5-Jan,a year ago,"Warning â? ï¸ â??ï¸
+Bad experience, bad stay
+Food and customer service: â?¦",See original (French),1 review,î??,More,î£?,,î ,Share,,,,Like,2.0,Translated by Google,ã?»
+,,,,,,,,Tripadvisor,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Gabriele V,5-Apr,7 years ago,"I stayed at the hotel for a long time for work reasons. It is really comfortable, very clean compared to the standards I have seen elsewhere. Large rooms and if with a view of the pool and the sea, a real spectacle.||Large and clean â?¦",See original (Italian),,,,,,,,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,cherif Ben abdelkader,5-May,2 years ago,"I stayed at this hotel, which I knew from my vacation, but during the day.
+I stayed there from October 15th until this morning.
+The staff is competent and attentive. â?¦",See original (French),2 reviews,î??,More,î£?,Like,î ,Share,Response from the owner,2 years ago,"Hello â¤, we would like to thank you for your review and we hope to see you again at our hotel very soonâ¤",,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Mondher Tebourbi,5-May,a year ago,"very nice hotel, welcome, restaurant, rooms everything is there. We enjoyed ourselves, special mention for the restaurant staff, a big thank you for the whole team, I will keep your address for my friends, I will definitely recommend it again",See original (French),6 reviews,î??,More,î£?,,î ,Share,,,,Like,2.0,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Y S,5-May,2 years ago,"Very warm welcome at the reception Mr Maher and his team are very professional, very clean room and Mrs Nour, head of the housekeeping team, is very attentive!! Clean swimming pool and lively service at the pool bar which demonstrates the â?¦",See original (French),2 reviews Â· 1 photo,î??,More,î£?,Like,î ,Share,Response from the owner,2 years ago,"Helloâ¤, we would like to thank you for your review and we hope to see you again at our hotel very soonâ¤.",,,Translated by Google,ã?»
+,,,,,,,,Tripadvisor,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,Gianni S,5-Jan,9 years ago,"First of all I don't know how they called it a Resort, since it has nothing to do with a resort. We stayed in this terrible hotel in mid-August, we booked for three days, but on the first day we ran away. They are not organized at all. In â?¦",See original (Italian),,,,,,,,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Elisa Debreux,5-May,4 years ago,"I don't know if it was due to our second stay at the hotel between other excursions in Tunisia, or to the tip left to the room staff last time. But when we came back from breakfast we were surprised to find our room without the do not â?¦",See original (French),Local Guide Â· 49 reviews Â· 24 photos,î??,More,î£?,,î ,Share,,,,Like,2.0,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Sophia Iklef,5-Jan,a year ago,"Hotel to avoid!!
+Poor hygiene, non-existent service
+As for the pool and restaurant staff, very aggressive bordering on violent â?¦",See original (French),7 reviews,î??,More,î£?,,î ,Share,,,,Like,5.0,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Claudio Borsotti,5-Apr,9 years ago,"I have frequented this hotel for several years, I think it is the best in the city; very spacious rooms, always very clean and helpful staff.
+the external area should be used better. â?¦",See original (Italian),"Local Guide Â· 460 reviews Â· 3,854 photos",î??,More,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,m 1000,5-Jan,11 months ago,"Deplorable hygiene at the indoor pool.
+The indoor pool staff is very aggressive and violent.
+Lacking professionalism.
+I do not recommend it.",See original (French),5 reviews,î??,More,î£?,,î ,Share,,,,Like,1.0,Translated by Google,ã?»
+,,,,,,,,Tripadvisor,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Maurizio S,5-May,2 years ago,EVERYTHING PERFECT|Very large and very beautiful structure located on the seafront equipped with all the services...|Beautiful outdoor swimming pool and a very large indoor one.|The restaurant was also a wonderful surprise...|International â?¦,See original (Italian),,,,,,,,,,,,,Translated by Google,ã?»
+,,,,,,,,Tripadvisor,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,bieffe73,5-Mar,6 years ago,"I spent two nights in this hotel since I was in the area for work. It is a good hotel with acceptable comfort. | Very quiet, with rooms overlooking the beach. | Common areas visited: only the breakfast room which has a satisfactory offer. |",See original (Italian),,,,,,,,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Ghazi Timoumi,5-Jan,3 years ago,"Rude staff! When checking in, a friend forgot his cin in the car. While he is looking for her, the receptionist shows us around the room. Our friend joins us upstairs and there the receptionist throws a fit, because he joined us without â?¦",See original (French),Local Guide Â· 17 reviews Â· 10 photos,î??,More,î£?,,î ,Share,,,,Like,1.0,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,FRANGLE PLAYZ,5-Mar,8 months ago,The room is beautiful but the service was nasty,See original (French),1 review,î??,More,î£?,Like,î ,Share,Response from the owner,8 months ago,"Good morning,
+
+We thank you for your feedback. We are delighted that you enjoyed the room. â?¦",,,Translated by Google,ã?»
+,,,,,,,,Tripadvisor,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,gr r,5-Apr,5 years ago,"The rating is above average for the ratio between what is offered (dinner, breakfast and room) and the price. The structure would need reconditioning. | However, a quiet and pleasant stay. Average service. |",See original (Italian),,,,,,,,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,Emna Lahbib,5-May,a year ago,"It was pleasant, clean, and quiet. The sea was easily accessible, and the pool was majestic and spotlessly clean. I highly recommend it.",See original (French),Local Guide Â· 38 reviews Â· 117 photos,î??,More,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Pare Brise Laval Inc.,5-May,4 years ago,"This hotel is well managed by professionals, welcoming staff, the common areas, the rooms, and the beach are very clean, fresh food of good quality acceptable, I got good value for my money I highly recommend it thank you next time.",See original (French),42 reviews Â· 9 photos,î??,More,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Abdelmouneam GHORISSI,5-May,2 years ago,"I spent a few nights here in July. It's a really nice hotel. Personally, I loved it. It's right on the waterfront with a wonderful beach and an even better pool. You'll be very comfortable. The most important thing is the location. It's â?¦",See original (French),Local Guide Â· 54 reviews Â· 388 photos,î??,More,î£?,Like,î ,Share,Response from the owner,2 years ago,"Hello sirâ¤, we would like to thank you for your review and we hope to see you again at our hotel very soon dear customerâ¤.",,,Translated by Google,ã?»
+,,,,,,,,Tripadvisor,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,Me_gusta_viajar_mar,5-Apr,15 years ago,"It was said to be the best hotel in town, and I believe it. Good customer service, clean, and fairly spacious rooms. Located on the beach, with restaurants and shops nearby. ||||There's Wi-Fi in the reception area, and you can sometimes â?¦",See original (Spanish),,,,,,,,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,Moustafa Bendimerad P,5-Jan,2 years ago,"An old hotel that doesn't deserve its 4 stars at all.
+
+Incompetent staff. Cleanliness leaves something to be desired in the bathroom. â?¦",See original (French),12 reviews,î??,More,î£?,,î ,Share,Response from the owner,2 years ago,We thank you for coming to our hotel and taking the time to write a review to which we pay the greatest attention. Your complaint will be forwarded to our hotel management and will be treated with the greatest attention. Kind regards.,Like,1.0,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,Sahbi MILED,5-Jan,2 years ago,"Entertainment - none
+Restaurant - bland food, breakfast to be avoided. As for the bar, it's not at all what you'd expect (no cocktails, and no non-smoking area). â?¦",See original (French),1 review,î??,More,î£?,Like,î ,Share,Response from the owner,2 years ago,"We thank you for coming to our hotel and taking the time to write a review to which we pay the greatest attention. Your complaint will be forwarded to our hotel management and will be treated with the greatest attention.
+Kind regards.",,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,imen bouz,5-May,2 years ago,"I recommend this friendly hotel, modern and clean rooms, welcoming staff I only stayed one night but I will be back very soon",See original (French),4 reviews,î??,More,î£?,Like,î ,Share,Response from the owner,2 years ago,"Hello â¤, we hope you enjoyed your stay at our hotel dear customer, we hope to see you again at our hotel very soon.",,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,Caroline Devos,5-Mar,a year ago,"I have been a customer of this hotel for years...there are many things that could be improved, especially cleanliness and tidiness. But this is Tunisia...the standards here are much lower than ours. The friendliness of the staff more than â?¦",See original (Dutch),"Local Guide Â· 118 reviews Â· 1,542 photos",î??,More,î£?,,î ,Share,Response from the owner,2 years ago,"Hello â¤, we would like to thank you for your review and we hope to see you again at our hotel very soon â¤.",Like,1.0,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Meriem Miaoui- jerbi,5-Jan,11 months ago,The indoor pool is very dirty. Pool staff are unprofessional. Never again....,See original (French),5 reviews,î??,,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Tripadvisor,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,Rastafarai R,5-Apr,7 years ago,"clean hotel with various services, ranging from reception to body care.||Rooms always very clean and fragrant, just put the appropriate marker ""clean my room"" and you will be satisfied, the only inconvenience is that for two days there was â?¦",See original (Italian),,,,,,,,,,,,,Translated by Google,ã?»
+,,,,,,,,Tripadvisor,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,Roberto C,5-Apr,5 years ago,"I stayed three days in the hotel, for work reasons.|The room was very large and well furnished, with a balcony overlooking the sea.|Clean and comfortable, the only flaw, not all the electrical outlets worked...|The restaurant is also quite â?¦",See original (Italian),,,,,,,,,,,,,Translated by Google,ã?»
+,,,,,,,,Tripadvisor,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,Hermann K,5-Apr,8 years ago,I've stayed at this hotel several times for business. It's a very well-maintained hotel with good service. Ms. Ben Hassine at the reception desk speaks good German and looked after us very well. I'd love to come back next year!,See original (German),,,,,,,,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Zineb,5-Jan,6 years ago,"Bad experience, apart from being disgusting, hair in the sheets, rice stuck to it, the toilet covered in drops of who knows what, the carpet not vacuumed. On top of all this, I asked for a taxi for 5:30 a.m. and they told me it would cost â?¦",See original (Spanish),Local Guide Â· 44 reviews Â· 91 photos,î??,More,î£?,,î ,Share,,,,Like,1.0,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Rudolf,5-Mar,6 years ago,"Hotel Bizerta, part of the city of Bizerta. The staff is nice and helpful. Communication possible in English and French. Possibility of half board, the food is very tasty, you need to get used to a different cuisine but that's fine. The â?¦",See original (Slovak),Local Guide Â· 46 reviews Â· 343 photos,î??,More,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,Meriem Hammada,5-Feb,6 years ago,"Clean and luxurious hotel.
+Superb hotel staff!
+Tea room belonging to the hotel complex (cafÃ© sidi salem): clean, pleasant and â?¦",See original (French),8 reviews,î??,More,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,luca mario leonardo quaresima,5-Apr,3 years ago,"Clean hotel and helpful staff, a location very close to the beach, restaurant with many different dishes every day. At the bar they serve alcohol and you can smoke ......",See original (Italian),Local Guide Â· 62 reviews Â· 54 photos,î??,,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Nasser HARFOUSH,5-May,a month ago,You must book in advance,See original (French),"Local Guide Â· 136 reviews Â· 1,393 photos",î??,More,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,Youssef Zrirak,5-Apr,2 years ago,"Very warm welcome, clean and spacious hotel. A big thank you to all the hotel staff (reception, restaurant) and especially Mr. (Ghassen B Alay)",See original (French),1 review,î??,More,î£?,Like,î ,Share,Response from the owner,2 years ago,"Hello, We would like to thank you for your review and we hope to see you again at our hotel",,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,Marjolaine Mechergui,5-May,2 years ago,"We've been going there for two years, perfect stay, very clean room, perfect lunch, attentive room staff, we'll be back in April 2023",See original (French),4 reviews,î??,More,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,Wahib Meradji,5-May,5 months ago,Clean swimming pool and beautiful sea view,See original (French),Local Guide Â· 19 reviews,î??,More,î£?,Like,î ,Share,Response from the owner,3 months ago,Thank you for your feedback. We hope to see you again very soon!,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,Nesrine Zouari,5-Apr,2 years ago,"Good hotel with sea view, just be prepared to pay on site. The price remains excessive compared to the end of the season but there is no choice in Bizerte",See original (French),Local Guide Â· 185 reviews Â· 56 photos,î??,More,î£?,Like,î ,Share,Response from the owner,2 years ago,"Hello â¤, we would like to thank you for your review and we hope to see you again at our hotel very soonâ¤",,,Translated by Google,ã?»
+,,,,,,,,Tripadvisor,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,gerdsander,5-Mar,11 years ago,"I was at the Bizerte Resort for work in Nov/Dec 13.||The room was fine, but the carpet needed to be replaced; it was a few years old.||The internet was free, but it was very difficult to log in; you get an access PIN that doesn't always â?¦",See original (German),,,,,,,,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,Marco Passero,5-Apr,3 years ago,"Near the sea and the old port of BISERTE, large and comfortable rooms, kind and attentive staff, room facing the sea, good parking, the kitchen could be improved a little... but in these times of covid it's fine like this",See original (Italian),"Local Guide Â· 925 reviews Â· 6,043 photos",î??,,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,Divers Multiples,5-May,a year ago,"I liked the hotel, service and location, I recommend booking",See original (French),2 reviews,î??,More,î£?,,î ,Share,,,,Like,2.0,Translated by Google,ã?»
+,,,,,,,,Tripadvisor,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,Farid L,5-May,8 years ago,"I spent two nights in the resort, the service is pleasant, the rooms are clean, the beach is 50 meters away, the rooms have a sea view, excellent hotel recommended for a long holiday and also for work, greetings",See original (Italian),,,,,,,,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,Nabil HASSAN,5-May,2 years ago,"Since my wife and I attended a conference there, we have been impatiently waiting to return and stay there for a few nights..... I highly recommend it!",See original (French),Local Guide Â· 126 reviews Â· 132 photos,î??,More,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,paolo turriziani,5-Apr,6 years ago,Good. Helpful and courteous staff. Excellent TV system. Good WiFi. Room and bathroom very good.,See original (Italian),Local Guide Â· 552 reviews Â· 161 photos,î??,,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,Nada Zrelli,5-Apr,4 years ago,"Good value for money
+Welcoming staff
+Clean room â?¦",See original (French),Local Guide Â· 11 reviews Â· 40 photos,î??,More,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,Kennet Arfman,5-Mar,7 years ago,Has seen its best days. Looks clean and nice at first but then you discover it is dirty and worn out. Nice hotel anyway.,See original (Swedish),Local Guide Â· 141 reviews Â· 423 photos,î??,,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,Data X Foot,5-Jan,2 years ago,"Poor hygiene (see photos of the restrooms)
+Unpleasant service (above average)
+Pool close to the giant bathtub, overcrowded with little respect for anyone â?¦",See original (French),Local Guide Â· 40 reviews Â· 6 photos,î??,More,î£?,,î ,Share,Response from the owner,2 years ago,"We thank you for coming to our hotel and taking the time to write a review to which we pay the greatest attention. Your complaint will be forwarded to our hotel management and will be treated with the greatest attention.
+Kind regards.",Like,1.0,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,Kaouthar Meddeb,5-May,8 years ago,"Seafront hotel, soft atmosphere, friendly welcome, quality gastronomy, fresh fish, Caribbean SPA center with qualified, attentive staff, well-being treatments with natural organic products, a real zen getaway, excellent value for money, I will gladly come back",See original (French),Local Guide Â· 27 reviews Â· 167 photos,î??,,î£?,,î ,Share,,,,Like,2.0,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Dalinda Baraket,5-Jan,3 years ago,"I spent 2 hours at the Spa, frankly I am disappointed in terms of hygiene, left wanting, sauna too dusty, jacuzzi not very clean.",See original (French),1 review,î??,,î£?,,î ,Share,,,,Like,2.0,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,bechir naouali,5-Jan,a year ago,"Very dirty, very expensive, very bad, run away in 5 years it will close if not before",See original (French),4 reviews Â· 6 photos,î??,More,î£?,,î ,Share,,,,Like,4.0,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,Rainer H aus A,5-Apr,6 years ago,"Staff friendly and concierge courteous and helpful.
+Food... takes some getting used to ð???
+Rooms always clean ð?? â?¦",See original (German),Local Guide Â· 18 reviews Â· 16 photos,î??,,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Dogan Kurter,5-Feb,5 years ago,"Room not so clean...breakfast, all tables dirty, no one clears them.
+Everything was a bit dirty too...",See original (German),Local Guide Â· 93 reviews Â· 8 photos,î??,,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,Nabil Sfar,5-May,a year ago,Very good hotel very good service with a heavenly location,See original (French),Local Guide Â· 39 reviews Â· 40 photos,î??,,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Youssef Lachnani,5-Jan,3 years ago,"Incompetent staff, if you are passing through Bizerte, I do not recommend staying in this hotel!",See original (French),3 reviews,î??,More,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Safia Ben El Haj,5-May,a year ago,"Great service, smoker coffee with good music and drinks",See original (German),15 reviews Â· 1 photo,î??,,î£?,,î ,Share,,,,Like,1.0,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Nada Babouri,5-Apr,5 years ago,"clean and helpful staff, breakfast could be improved and wifi doesn't always work",See original (Italian),1 review,î??,More,î£?,,î ,Share,,,,Like,1.0,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,Frank Feber,5-Mar,2 years ago,"Although it's a 4-star hotel, the room furnishings are run-down. The beach isn't too far away.",See original (German),Local Guide Â· 21 reviews Â· 35 photos,î??,More,î£?,Like,î ,Share,Response from the owner,2 years ago,"Helloâ¤, we would like to thank you for your review and we hope to see you again at our hotel very soon dear customer.",,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,Bruno Boulanger,5-May,7 years ago,C THE NEYMAR D HOTELS SUPER CLEAN MINI BAR LACEUIL THE STAFF AND AT YOUR CARE G DOES FULL DOTEL FOR ME IT WELL DESERVES A 5 STARS HERE C BIZERTE EXCUSE ME FOR WRITING BUT I'M USED TO TEXT MESSAGES WOULD COME SEE YOU YOURSELF BYE,See original (French),Local Guide Â· 13 reviews Â· 68 photos,î??,,î£?,,î ,Share,,,,Like,1.0,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,dorra bajjar,5-Mar,7 years ago,Service wise good but everything else is very average compared to the price finally not satisfied,See original (French),1 review,î??,,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,laurent lancerica,5-Apr,a year ago,"Nice place to spend the day at the pool, restaurant and top service",See original (French),Local Guide Â· 252 reviews Â· 50 photos,î??,More,î£?,,î ,Share,,,,Like,1.0,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,nizar zrafi,5-Apr,a year ago,Especially the breakfast and the room amenities need to be reviewed.,See original (French),"Local Guide Â· 201 reviews Â· 1,767 photos",î??,More,î£?,,î ,Share,,,,Like,1.0,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,Moussacoulibaly1 Feinda,5-Apr,5 years ago,"A good, comfortable and welcoming hotel, service with a smile, thank you very much.",See original (French),Local Guide Â· 24 reviews Â· 10 photos,î??,,î£?,Like,î ,Share,Response from the owner,5 years ago,We thank you for your trust and we hope to see you again soon,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,hadhami mani,5-Apr,6 years ago,super nice hotel: staff - food - beach - hygiene...,See original (French),1 review,î??,,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Ajjabi Walid,5-Mar,7 years ago,Quiet place... where you can spend pleasant moments and get to know the city... not crowded,See original (French),Local Guide Â· 15 reviews Â· 265 photos,î??,,î£?,,î ,Share,,,,Like,1.0,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Maha Hammami,5-May,4 years ago,"Clean and well-heated room, delicious meals ð??? â?¦",See original (French),Local Guide Â· 67 reviews Â· 308 photos,î??,,î£?,,î ,Share,,,,Like,1.0,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Marcin MARYNARZ,5-May,8 years ago,"Good food, nice service, wifi, cleanliness",See original (Polish),9 reviews Â· 5 photos,î??,,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,international sourcing Company,5-May,7 years ago,"Moorish cafe service with impeccable ramzy chicha.
+Thank you for the welcome",See original (French),Local Guide Â· 32 reviews Â· 35 photos,î??,,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,Laurent VIGNON,5-May,6 years ago,"Luxury hotel, beautiful swimming pool, comfortable rooms, close to the sea.",See original (French),Local Guide Â· 101 reviews Â· 184 photos,î??,,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Le consul Tunisie Hk consulting suarl,5-May,a year ago,The best view of all Bizerte.,See original (French),Local Guide Â· 29 reviews Â· 31 photos,î??,More,î£?,,î ,Share,,,,Like,1.0,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Tobias Z,5-Mar,4 years ago,Unfortunately it's a bit old. Ok for a business trip,See original (German),Local Guide Â· 403 reviews Â· 958 photos,î??,,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,Wassim Jendoubi,5-Mar,a year ago,Beautiful landscape but service to be reviewed.,See original (French),Local Guide Â· 47 reviews Â· 813 photos,î??,More,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Ines Bouabda,5-Jan,7 years ago,Lousy crepe...also lousy shisha.. passable service,See original (French),1 review,î??,,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,Marouane Marouane,5-Apr,7 years ago,Ideal for a good stay in Bizerte at a promotional price,See original (French),Local Guide Â· 35 reviews Â· 113 photos,î??,,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,Riyad Yabzeg,5-May,5 months ago,Pleasant ð??¯ â?¦,See original (French),6 reviews,î??,,î£?,Like,î ,Share,Response from the owner,3 months ago,Thank you for your feedbackð??? â?¦,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Yos kh,5-Mar,7 years ago,Friendly atmosphere with average service,See original (French),Local Guide Â· 67 reviews Â· 240 photos,î??,,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,dennis rapp,5-May,2 years ago,Very nice and very friendly staff,See original (German),Local Guide Â· 12 reviews Â· 1 photo,î??,,î£?,Like,î ,Share,Response from the owner,2 years ago,"Hello â¤, we would like to thank you for your review and we hope to see you again at our hotel very soon â¤.",,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Herzi Aymen,5-Mar,5 years ago,Not bad,See original (French),Local Guide Â· 56 reviews Â· 2 photos,î??,,î£?,,î ,Share,,,,Like,1.0,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Jean-Pierre Masi,5-Mar,7 years ago,Hotel 4 â?¤but rather 2â?¤,See original (French),Local Guide Â· 238 reviews Â· 221 photos,î??,,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,Sonia Bejaoui,5-Feb,10 years ago,I didn't like,See original (French),3 reviews,î??,,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,Haithem Belhaj,5-May,5 years ago,"Impeccable hotel, especially the reception.",See original (French),Local Guide Â· 32 reviews Â· 23 photos,î??,,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Bdira Mejdi,5-Mar,2 years ago,"Correct route
+Average hotel
+Average service",See original (French),Local Guide Â· 180 reviews Â· 167 photos,î??,,î£?,Like,î ,Share,Response from the owner,2 years ago,"Hello â¤, we would like to thank you for your review and we hope to see you again at our hotel very soonâ¤",,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,Katia ZAPOLSKY-ESTELLE,5-Jan,9 years ago,The Bizerta Resort is not located at this location.,See original (French),Local Guide Â· 32 reviews Â· 2 photos,î??,,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Moustafa Ouahmane,5-May,7 years ago,"Magnificent city, average hotel",See original (French),14 reviews Â· 2 photos,î??,,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,MrMorro Volkov,5-Apr,6 years ago,Beautiful but empty,See original (Russian),Local Guide Â· 38 reviews Â· 59 photos,î??,,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Felhi Hejer,5-May,a year ago,GOOD,See original (French),1 review,î??,More,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,khaoula henane,5-Apr,6 years ago,Good,See original (French),2 reviews,î??,,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,youssef cherif,5-Apr,6 years ago,Not bad,See original (French),Local Guide Â· 26 reviews Â· 90 photos,î??,,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Fabrizio Tasinato,5-May,5 years ago,Fabulous,See original (Italian),Local Guide Â· 259 reviews Â· 38 photos,î??,,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,ALLAYA IMED,5-May,3 years ago,Excellent hotel... worth a visit,See original (French),Local Guide Â· 17 reviews Â· 26 photos,î??,,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,yosry magdiche,5-Apr,5 years ago,Pretty good,See original (French),Local Guide Â· 34 reviews Â· 73 photos,î??,,î£?,Like,î ,Share,Response from the owner,5 years ago,thank you,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Atelier de confection horia couture,5-May,a year ago,ð?©µð?¤ â?¦,,4 reviews Â· 8 photos,î??,More,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Sirin Sarou,5-Mar,10 years ago,Hi,See original (Turkish),1 review,î??,,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,Monaam Ben Mabrouk,5-Jan,7 years ago,Man,See original (Finnish),Local Guide Â· 3 reviews,î??,,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Mini manou,5-May,5 years ago,Well organized,See original (French),Local Guide Â· 22 reviews Â· 71 photos,î??,,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,David,5-Feb,11 years ago,It does not correspond to its category,See original (Spanish),7 reviews Â· 1 photo,î??,,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Omar Zouaoui,5-May,6 years ago,Great hotel,See original (French),"Local Guide Â· 26 reviews Â· 1,509 photos",î??,,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,Katherine Van den Brandt,5-Apr,2 years ago,,,2 reviews,î??,More,î£?,Like,î ,Share,Response from the owner,2 years ago,"Hello â¤, we would like to thank you for your review and we hope to see you again at our hotel very soonâ¤",,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,Hamza Hnini,5-Jan,8 years ago,Incorrect location,See original (French),"Local Guide Â· 198 reviews Â· 1,758 photos",î??,,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,amir,5-Mar,2 years ago,,,Local Guide Â· 4 reviews Â· 123 photos,î??,More,î£?,Like,î ,Share,Response from the owner,2 years ago,"Hello â¤, we would like to thank you for your review and we hope to see you again at our hotel very soon â¤.",,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,WALID KAANICHE,5-Apr,8 years ago,Not bad,See original (French),"Local Guide Â· 115 reviews Â· 1,837 photos",î??,,î£?,Like,î ,Share,,,,,,Translated by Google,ã?»
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,Faical Sta,5-Apr,5 years ago,hotel bizerte,,Local Guide Â· 9 reviews Â· 37 photos,î??,,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Faouzi JEBALI,5-Apr,3 weeks ago,,,7 photos,î??,More,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,ben abda nada,5-May,3 weeks ago,,,2 reviews,î??,More,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,karchoud Ahmed,5-Apr,2 months ago,,,,î??,,,,,,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,belhassen channouf,5-May,4 months ago,,,Local Guide Â· 64 photos,î??,,,,,,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Senda Yahia,5-Mar,6 months ago,,,Local Guide Â· 12 reviews Â· 92 photos,î??,,,,,,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,HÃ©di chÃ©bbi,5-Apr,7 months ago,,,Local Guide Â· 16 reviews,î??,More,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,NÃ©ji Trabelsi,5-Apr,8 months ago,,,Local Guide Â· 8 reviews Â· 17 photos,î??,,,,,,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Elamin Ehtiwash,5-May,8 months ago,,,Local Guide Â· 3 reviews Â· 29 photos,î??,More,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,jorge jacinto,5-Apr,a year ago,,,Local Guide Â· 21 reviews,î??,More,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,mohamed bellakhal,5-Apr,a year ago,,,Local Guide Â· 25 reviews Â· 136 photos,î??,More,î£?,,î ,Share,,,,Like,1.0,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,bougmiha Arij,5-Apr,a year ago,,,,î??,More,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,Boudiaf Mehdi,5-May,a year ago,,,Local Guide Â· 28 reviews Â· 104 photos,î??,,,,,,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,jonathan k,5-Mar,a year ago,,,Local Guide Â· 31 reviews Â· 13 photos,î??,,,,,,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,maalaoui anouar,5-Apr,a year ago,,,Local Guide Â· 6 reviews Â· 41 photos,î??,More,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Hajni KÅ?hegyi,5-May,a year ago,,,"Local Guide Â· 41 reviews Â· 2,783 photos",î??,,,,,,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,N H,5-May,a year ago,,,22 reviews,î??,More,î£?,Like,î ,Share,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Dr. Omar Gubran,5-Apr,2 years ago,,,Local Guide Â· 8 reviews,î??,More,î£?,Like,î ,Share,Response from the owner,2 years ago,"Helloâ¤, we would like to thank you for your review dear customer.",,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Andrea Degortes,5-Jan,2 years ago,,,Local Guide Â· 27 reviews Â· 20 photos,î??,,,,,,Response from the owner,2 years ago,"We are very sorry to hear that you didn't have a great experience in our hotel â?? our mission is to provide excellent guest experiences, so we are sorry to have let you down.",,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,Rolf Sturm,5-Mar,2 years ago,,,32 reviews,î??,,î£?,Like,î ,Share,Response from the owner,2 years ago,"Hello â¤, we would like to thank you for your review and we hope to see you again at our hotel very soon â¤.",,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Vlad Mandyev,5-Mar,3 years ago,,,Local Guide Â· 25 reviews Â· 291 photos,î??,,,,,,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Philippe Leten,5-Apr,3 years ago,,,2 reviews Â· 24 photos,î??,,,,,,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Ayed Mohamed,5-Jan,4 years ago,,,1 review,î??,,,,,,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Mk68,5-Apr,5 years ago,,,25 reviews,î??,,,,,,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Anis Hattab,5-Feb,5 years ago,,,,î??,,,,,,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Gosia N,5-Mar,5 years ago,,,Local Guide Â· 58 reviews,î??,,,,,,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,Ben Taieb Mohamed Amine,5-Apr,6 years ago,,,Local Guide Â· 1 review Â· 36 photos,î??,,,,,,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,noureddine rachedi,5-Apr,6 years ago,,,,î??,,,,,,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,7.0,10.0,neutral,Ali Radwen,5-Feb,6 years ago,,,,î??,,,,,,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Î?Î¹Ï?ÏÎ³Î¿Ï? Î?Î½Î±Ï?Ï?Î±Ï?Î¯Î¿Ï?,5-Apr,6 years ago,,,,î??,,,,,,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Sven Poehls,5-Apr,6 years ago,,,2 reviews,î??,,,,,,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,Dominik WeiÃ?,5-May,7 years ago,,,1 photo,î??,,,,,,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,8.0,10.0,neutral,Andreas Lange,5-Mar,8 years ago,,,Local Guide Â· 8 reviews Â· 17 photos,î??,,,,,,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,5.0,10.0,neutral,Jlassi Karim,5-Apr,8 years ago,,,Local Guide Â· 3 reviews Â· 40 photos,î??,,,,,,,,,,,,
+,,,,,,,,Google,unknown,unknown,unknown,unknown,no comment,6.0,10.0,neutral,Vicente Basilio Perez,5-May,9 years ago,,,14 reviews,î??,,,,,,,,,,,,
