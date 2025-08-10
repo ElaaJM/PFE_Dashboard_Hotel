@@ -1,0 +1,13 @@
+chart_id,chart_title,type,purpose,dimensions/axes,source_data,extra_logic
+avg_rating_over_time,Average Rating Over Time,line,Track changes in average review rating,"Date (X), Average Rating (Y)",Scrapped_reviews_cleaned.csv,"Mean normalized_rating per month/year, calculate YoY % change"
+review_volume_over_time,Review Volume Over Time,bar,Track review activity and seasonality,"Date (X), # of Reviews (Y)",Scrapped_reviews_cleaned.csv,"Count reviews per month/year, calculate YoY % change"
+sentiment_distribution,Sentiment Distribution,bar/pie,Compare review sentiment classes,"Sentiment (X), # of Reviews (Y)",Scrapped_reviews_cleaned.csv,"Count reviews by sentiment, calculate YoY % change"
+subratings_analysis,Subratings Analysis,box/bar,Analyze distribution of subratings,"Subrating Name (X), Subrating Value (Y)",Subratings_reviews.csv,"Distribution/mean of subrating_value, calculate YoY % change"
+reviews_by_country,Reviews by Country,bar,Show top countries by review count,"Country (X), # of Reviews (Y)",Scrapped_reviews_cleaned.csv,"Group by country, count reviews, calculate YoY % change, show top N"
+reviews_by_stay_type,Reviews by Stay Type,bar,Show review count by stay type,"Stay Type (X), # of Reviews (Y)",Scrapped_reviews_cleaned.csv,"Group by stay_type, count reviews, calculate YoY % change"
+total_reviews,Total Reviews,summary_card,Show total reviews and YoY % change,Year,Scrapped_reviews_cleaned.csv,"Count reviews per year, calculate YoY % change"
+average_rating,Average Rating,summary_card,Show average rating and YoY % change,Year,Scrapped_reviews_cleaned.csv,"Mean normalized_rating per year, calculate YoY % change"
+most_common_sentiment,Most Common Sentiment,summary_card,Show most common sentiment (latest year),Sentiment,Scrapped_reviews_cleaned.csv,Mode of sentiment (latest year)
+top_country_reviews,Top Country (Reviews),summary_card,Show country with most reviews (latest year),Country,Scrapped_reviews_cleaned.csv,"Group by country, count reviews, select max (latest year)"
+top_stay_type,Top Stay Type,summary_card,Show stay type with most reviews (latest year),Stay Type,Scrapped_reviews_cleaned.csv,"Group by stay_type, count reviews, select max (latest year)"
+most_reviewed_platform,Most Reviewed Platform,summary_card,Show platform with most reviews (latest year),Platform,Scrapped_reviews_cleaned.csv,"Group by platform, count reviews, select max (latest year)"

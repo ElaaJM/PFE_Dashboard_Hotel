@@ -1,0 +1,121 @@
+﻿audience_id,gender,age_range,country
+1,Male,18-24,Tunisie
+2,Male,18-24,Algérie
+3,Male,18-24,France
+4,Male,18-24,Libye
+5,Male,18-24,Canada
+6,Male,18-24,Italie
+7,Male,18-24,Allemagne
+8,Male,18-24,Qatar
+9,Male,18-24,Arabie Saoudite
+10,Male,18-24,Émirats arabes unis
+11,Male,25-34,Tunisie
+12,Male,25-34,Algérie
+13,Male,25-34,France
+14,Male,25-34,Libye
+15,Male,25-34,Canada
+16,Male,25-34,Italie
+17,Male,25-34,Allemagne
+18,Male,25-34,Qatar
+19,Male,25-34,Arabie Saoudite
+20,Male,25-34,Émirats arabes unis
+21,Male,35-44,Tunisie
+22,Male,35-44,Algérie
+23,Male,35-44,France
+24,Male,35-44,Libye
+25,Male,35-44,Canada
+26,Male,35-44,Italie
+27,Male,35-44,Allemagne
+28,Male,35-44,Qatar
+29,Male,35-44,Arabie Saoudite
+30,Male,35-44,Émirats arabes unis
+31,Male,45-54,Tunisie
+32,Male,45-54,Algérie
+33,Male,45-54,France
+34,Male,45-54,Libye
+35,Male,45-54,Canada
+36,Male,45-54,Italie
+37,Male,45-54,Allemagne
+38,Male,45-54,Qatar
+39,Male,45-54,Arabie Saoudite
+40,Male,45-54,Émirats arabes unis
+41,Male,55-64,Tunisie
+42,Male,55-64,Algérie
+43,Male,55-64,France
+44,Male,55-64,Libye
+45,Male,55-64,Canada
+46,Male,55-64,Italie
+47,Male,55-64,Allemagne
+48,Male,55-64,Qatar
+49,Male,55-64,Arabie Saoudite
+50,Male,55-64,Émirats arabes unis
+51,Male,65+,Tunisie
+52,Male,65+,Algérie
+53,Male,65+,France
+54,Male,65+,Libye
+55,Male,65+,Canada
+56,Male,65+,Italie
+57,Male,65+,Allemagne
+58,Male,65+,Qatar
+59,Male,65+,Arabie Saoudite
+60,Male,65+,Émirats arabes unis
+61,Female,18-24,Tunisie
+62,Female,18-24,Algérie
+63,Female,18-24,France
+64,Female,18-24,Libye
+65,Female,18-24,Canada
+66,Female,18-24,Italie
+67,Female,18-24,Allemagne
+68,Female,18-24,Qatar
+69,Female,18-24,Arabie Saoudite
+70,Female,18-24,Émirats arabes unis
+71,Female,25-34,Tunisie
+72,Female,25-34,Algérie
+73,Female,25-34,France
+74,Female,25-34,Libye
+75,Female,25-34,Canada
+76,Female,25-34,Italie
+77,Female,25-34,Allemagne
+78,Female,25-34,Qatar
+79,Female,25-34,Arabie Saoudite
+80,Female,25-34,Émirats arabes unis
+81,Female,35-44,Tunisie
+82,Female,35-44,Algérie
+83,Female,35-44,France
+84,Female,35-44,Libye
+85,Female,35-44,Canada
+86,Female,35-44,Italie
+87,Female,35-44,Allemagne
+88,Female,35-44,Qatar
+89,Female,35-44,Arabie Saoudite
+90,Female,35-44,Émirats arabes unis
+91,Female,45-54,Tunisie
+92,Female,45-54,Algérie
+93,Female,45-54,France
+94,Female,45-54,Libye
+95,Female,45-54,Canada
+96,Female,45-54,Italie
+97,Female,45-54,Allemagne
+98,Female,45-54,Qatar
+99,Female,45-54,Arabie Saoudite
+100,Female,45-54,Émirats arabes unis
+101,Female,55-64,Tunisie
+102,Female,55-64,Algérie
+103,Female,55-64,France
+104,Female,55-64,Libye
+105,Female,55-64,Canada
+106,Female,55-64,Italie
+107,Female,55-64,Allemagne
+108,Female,55-64,Qatar
+109,Female,55-64,Arabie Saoudite
+110,Female,55-64,Émirats arabes unis
+111,Female,65+,Tunisie
+112,Female,65+,Algérie
+113,Female,65+,France
+114,Female,65+,Libye
+115,Female,65+,Canada
+116,Female,65+,Italie
+117,Female,65+,Allemagne
+118,Female,65+,Qatar
+119,Female,65+,Arabie Saoudite
+120,Female,65+,Émirats arabes unis

@@ -1,0 +1,13 @@
+chart_id,chart_title,type,purpose,dimensions/axes,source_data,extra_logic
+engagement_over_time,Engagement Over Time,line,Track engagement growth and seasonality,"Date (X), Interactions (Y)",Facebook_metrics_table.csv,"Sum interactions per month/year, calculate YoY % change"
+follower_growth,Follower Growth,line,Track follower growth over time,"Date (X), Follows (Y)",Follows_cleaned.csv,"Sum follows per month/year, calculate YoY % change"
+reach_over_time,Reach Over Time,line,Track reach growth and seasonality,"Date (X), Reach (Y)",Facebook_metrics_table.csv,"Sum reach per month/year, calculate YoY % change"
+content_type_performance,Content Type Performance,bar,Compare engagement by content type,"Content Type (X), Interactions (Y)",Facebook_content_type_table.csv,"Group by content type, sum interactions, calculate YoY % change"
+audience_gender_age,Audience by Gender & Age,stacked_bar,Analyze audience demographics by gender and age,"Age Range (X), Followers (Y), Gender (Stack)",Facebook_Audience_details.csv,"Group by age and gender, sum followers, calculate YoY % change"
+audience_country,Audience by Country,bar,Show top countries by followers,"Country (X), Followers (Y)",Facebook_Audience_details.csv,"Group by country, sum followers, calculate YoY % change, show top N"
+total_interactions,Total Interactions,summary_card,Show total interactions and YoY % change,Year,Facebook_metrics_table.csv,"Sum interactions per year, calculate YoY % change"
+total_follows,Total Follows,summary_card,Show total follows and YoY % change,Year,Follows_cleaned.csv,"Sum follows per year, calculate YoY % change"
+total_reach,Total Reach,summary_card,Show total reach and YoY % change,Year,Facebook_metrics_table.csv,"Sum reach per year, calculate YoY % change"
+top_country,Top Country (Followers),summary_card,Show country with most followers (latest year),Country,Facebook_Audience_details.csv,"Group by country, sum followers, select max (latest year)"
+top_age_range,Top Age Range,summary_card,Show age range with most followers (latest year),Age Range,Facebook_Audience_details.csv,"Group by age range, sum followers, select max (latest year)"
+top_gender,Top Gender,summary_card,Show gender with most followers (latest year),Gender,Facebook_Audience_details.csv,"Group by gender, sum followers, select max (latest year)"
